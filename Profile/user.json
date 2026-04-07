@@ -51,7 +51,8 @@
         "institution": "NSHM College of Management",
         "year": "2014 - 2018"
       }
-    ]
+    ],
+    "profileToken": ""
   },
   {
     "id": "1",
@@ -258,7 +259,7 @@
       "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
       "email": "brasee66@gmail.com"
     },
-    "image": "https://i.pravatar.cc/150?u=braseetha",
+    "image": "none",
     "education": [
       {
         "degree": "Bachelor of Optometry (B.Optom)",
