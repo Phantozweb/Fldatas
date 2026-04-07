@@ -548,7 +548,7 @@
     ],
     "location": "Kakamega, Kenya",
     "description": "I'm a passionate optometry student, currently serving as Mmuosa chairperson and AFOS vice president. I would like to venture into the field of advocacy and research in optometry.",
-    "verified": false,
+    "verified": true,
     "flCredits": 620,
     "joinedDate": "February 2025",
     "badges": [
@@ -575,7 +575,7 @@
     "links": {
       "email": "wanjugukimunyu2020@gmail.com"
     },
-    "image": "https://i.pravatar.cc/150?u=faithwanjugu",
+    "image": "none",
     "education": [
       {
         "degree": "Bsc Optometry and Vision Science",
