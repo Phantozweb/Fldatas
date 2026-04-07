@@ -230,7 +230,7 @@
     ],
     "location": "Madurai, Tamil Nadu, India",
     "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
-    "verified": true,
+    "verified": false,
     "flCredits": 150,
     "joinedDate": "August 2024",
     "badges": [],
@@ -363,7 +363,7 @@
     ],
     "location": "Tirunelveli, Tamil Nadu, India",
     "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
-    "verified": false,
+    "verified": true,
     "flCredits": 320,
     "joinedDate": "January 2025",
     "badges": [],
@@ -384,7 +384,7 @@
     "links": {
       "email": "megadharshini999@gmail.com"
     },
-    "image": "https://i.pravatar.cc/150?u=megadharshini",
+    "image": "none",
     "education": [
       {
         "degree": "Bachelor of Optometry",
