@@ -230,7 +230,7 @@
     ],
     "location": "Madurai, Tamil Nadu, India",
     "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
-    "verified": false,
+    "verified": true,
     "flCredits": 150,
     "joinedDate": "August 2024",
     "badges": [],
@@ -259,7 +259,7 @@
       "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
       "email": "brasee66@gmail.com"
     },
-    "image": "none",
+    "image": "https://i.pravatar.cc/150?u=braseetha",
     "education": [
       {
         "degree": "Bachelor of Optometry (B.Optom)",
