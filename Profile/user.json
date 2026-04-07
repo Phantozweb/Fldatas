@@ -505,7 +505,7 @@
       "linkedin": "https://www.linkedin.com/in/esakkiammal-iyyappan-263953217",
       "email": "dhanasriiyyappan2020@gmail.com"
     },
-    "image": "none",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQGqudTp058K9g/profile-displayphoto-crop_800_800/B56ZpaKBmYKEAI-/0/1762449170789?e=1764806400&v=beta&t=I8iXNg6bkBhjaw8LvLO4oFfyGkxhWJ01yQLEd3qdRoU",
     "education": [
       {
         "degree": "Master of Optometry",
@@ -604,7 +604,7 @@
     ],
     "location": "Kakamega, Kenya",
     "description": "I'm a passionate optometry student, currently serving as Mmuosa chairperson and AFOS vice president. I would like to venture into the field of advocacy and research in optometry.",
-    "verified": false,
+    "verified": true,
     "flCredits": 620,
     "joinedDate": "February 2025",
     "badges": [
@@ -631,7 +631,7 @@
     "links": {
       "email": "wanjugukimunyu2020@gmail.com"
     },
-    "image": "https://i.pravatar.cc/150?u=faithwanjugu",
+    "image": "none",
     "education": [
       {
         "degree": "Bsc Optometry and Vision Science",
