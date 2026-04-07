@@ -1,66 +1,57 @@
 [
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
@@ -147,782 +138,674 @@
     "membershipId": "IN20251024235815"
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   },
   {
-    "id": "2",
+    "id": "7",
     "type": "student",
-    "name": "Braseetha A",
-    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "name": "M. Mega Dharshini",
+    "title": "B.Optom Student | Former State Head - Tamil Nadu",
     "experience": [
       {
-        "title": "First Prize – Science Exhibition",
-        "company": "VK College of Science and Optometry",
-        "duration": "2024",
-        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+        "title": "State Head - Tamil Nadu",
+        "company": "Optobharat",
+        "duration": "2024 - 2025",
+        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
       },
       {
-        "title": "Participant",
-        "company": "EuyunCare",
-        "duration": "2024",
-        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+        "title": "Community Eye Camp Participant",
+        "company": "Vision Screening Camps",
+        "duration": "2023 - Present (5 Camps)",
+        "description": "Assisted with vision screenings and patient management in community settings."
       }
     ],
-    "location": "Madurai, Tamil Nadu, India",
-    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "location": "Tirunelveli, Tamil Nadu, India",
+    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
     "verified": true,
-    "flCredits": 150,
-    "joinedDate": "August 2024",
+    "flCredits": 320,
+    "joinedDate": "January 2025",
     "badges": [],
     "isFounder": false,
     "skills": [
-      "Diagnosing and managing eye conditions",
-      "Prescribing corrective lenses",
-      "Refraction",
-      "Contact lens fitting",
-      "Instruments handling",
-      "Clinical skills & patient communication",
-      "Research",
-      "Team collaboration",
-      "Analytical thinking"
+      "Vision Examination & Refraction",
+      "Auto-Refractometer (AR) & NCT Operation",
+      "Patient Handling & Consultation",
+      "Systematic Review & Research",
+      "Poster Presentation"
     ],
     "interests": [
-      "Pediatric Vision Care",
-      "Binocular Vision Assessment",
-      "Congenital Ocular Motor Anomalies",
-      "Concept-based Learning",
-      "Peer Learning",
-      "Research Methodology"
+      "Dispensing Optics",
+      "Contact Lenses",
+      "Community Outreach"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
     "links": {
-      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
-      "email": "brasee66@gmail.com"
+      "email": "megadharshini999@gmail.com"
     },
     "image": "none",
     "education": [
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "Alagappa University",
-        "year": "2023 - 2027"
+        "degree": "Bachelor of Optometry",
+        "institution": "VK College of Optometry, Madurai",
+        "year": "Present (Third Year)"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Tamil (Native)",
-      "Hindi (Limited Working)"
+      "English",
+      "Tamil"
     ],
     "profileToken": ""
   }
