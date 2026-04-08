@@ -89,67 +89,82 @@
     "migratedAt": "2026-04-08T09:44:36.539Z"
   },
   {
-    "timestamp": "2026-04-08T10:19:25.905Z",
-    "membershipId": "FLJ88EY0",
-    "name": "Rudra Kumar Sinha",
-    "email": "rudrakumarsinha4@gmail.com",
-    "whatsapp": "917992383874",
-    "linkedin": "https://www.linkedin.com/in/rudra-kumar-sinha-29499617a?utm_souOrpcteo=msehtarriset&utm_campaign=share_via&utm_content=proInfidleia&utm_mediumM=oarnaddraobida_da",
-    "role": "",
-    "country": "",
-    "location": "Moradabad, Uttar Pradesh, India",
-    "id": "11",
+    "timestamp": "2026-04-08T10:20:22.324Z",
+    "membershipId": "FL2KGYQ1",
+    "name": "Esakkiammal Iyyappan",
+    "email": "esakkiammaliyyappan2025@gmail.com",
+    "whatsapp": "919384598501",
+    "linkedin": "https://www.linkedin.com/in/esakkiammal-iyyappan-263953217",
+    "role": "Student",
+    "country": "India",
+    "location": "Chennai, Tamil Nadu, India",
+    "id": "21",
     "type": "student",
-    "title": "Optometry Intern at CL Gupta Eye Institute | B.Optometry Student",
+    "title": "Master of Optometry Student | Former Clinical Optometrist",
     "experience": [
       {
-        "title": "Intern Optometrist",
-        "company": "C L Gupta Eye Institute",
-        "duration": "Jul 2025 - Present",
-        "description": "Performing comprehensive eye examinations, refraction, tonometry, and patient counseling at a leading eye care institution."
+        "title": "Clinical Optometrist & Academic Tutor",
+        "company": "Aravind Eye Care System",
+        "duration": "Aug 2024 - Aug 2025",
+        "description": "Efficiently managed and performed comprehensive eye examinations daily for over 3700 patients, conducted over 140 classes for students, and specialized in pediatric refraction and orthoptic evaluations."
+      },
+      {
+        "title": "Optometry Intern",
+        "company": "Bejan Singh Eye Hospital",
+        "duration": "Feb 2023 - Mar 2024",
+        "description": "Completed a comprehensive internship gaining foundational clinical experience."
       }
     ],
-    "description": "I'm Rudra Kumar Sinha, a dedicated and enthusiastic optometry intern at CL Gupta Eye Institute, currently pursuing a Bachelor of Optometry at Chandigarh University. My core interests lie in contact lenses, ocular diseases, and vision science innovation.",
+    "description": "I am Optom. Esakkiammal Iyyappan, passionate about advancing vision care through clinical excellence and continuous learning. With experience as both a Clinical Optometrist and Academic Tutor at the renowned Aravind Eye Hospital.",
     "isFounder": false,
     "verified": true,
-    "verifiedRole": "Eye Q Arena 2025 Champion",
-    "flCredits": 1100,
-    "joinedDate": "December 2024",
+    "verifiedRole": "Clinical Optometrist",
+    "flCredits": 750,
+    "joinedDate": "November 2024",
     "badges": [
-      "Eye Q Arena Winner"
+      "Aravind Alumni"
     ],
     "skills": [
-      "Refraction",
-      "Applanation Tonometer",
-      "Marketing and Outreach",
+      "Comprehensive Eye Examination",
+      "Pediatric Refraction",
+      "Orthoptic Evaluations",
+      "Specialty Contact Lens Fitting",
+      "Diagnostic Procedures",
       "Patient Counseling",
-      "Teamwork"
+      "Academic Tutoring",
+      "Low Vision & Rehabilitation"
     ],
     "interests": [
-      "Innovation in healthcare",
+      "Pediatric Optometry",
       "Contact Lenses",
-      "Ocular Diseases",
-      "Vision Science"
+      "Low Vision",
+      "Evidence-Based Practice",
+      "Clinical Research"
     ],
-    "bio": "I'm Rudra Kumar Sinha, a dedicated and enthusiastic optometry intern at CL Gupta Eye Institute, currently pursuing a Bachelor of Optometry at Chandigarh University. My core interests lie in contact lenses, ocular diseases, and vision science innovation. With a strong academic foundation and hands-on clinical exposure, I've conducted research on AI-based digital handheld ophthalmoscopes exploring how technology can revolutionize eye care in underserved regions.",
+    "bio": "I am Optom. Esakkiammal Iyyappan, passionate about advancing vision care through clinical excellence and continuous learning. With experience as both a Clinical Optometrist and Academic Tutor at the renowned Aravind Eye Hospital, I have a strong foundation in patient care and education. My goal is to bridge the gap between practice and education. I am currently pursuing a Master of Optometry at The Sankara Nethralaya Academy to further specialize and contribute to improving visual health through evidence-based practice, research, and teaching.",
     "links": {
-      "linkedin": "https://www.linkedin.com/in/rudra-kumar-sinha-29499617a",
-      "email": "rudrakumarsinha4@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/esakkiammal-iyyappan-263953217",
+      "email": "dhanasriiyyappan2020@gmail.com"
     },
-    "image": "https://i.ibb.co/v6XJ3B7X/1747244504223.jpg",
+    "image": "https://media.licdn.com/dms/image/v2/D5603AQGqudTp058K9g/profile-displayphoto-crop_800_800/B56ZpaKBmYKEAI-/0/1762449170789?e=1764806400&v=beta&t=I8iXNg6bkBhjaw8LvLO4oFfyGkxhWJ01yQLEd3qdRoU",
     "education": [
       {
+        "degree": "Master of Optometry",
+        "institution": "Sankara Nethralaya",
+        "year": "2025 - 2027"
+      },
+      {
         "degree": "Bachelor of Optometry",
-        "institution": "Chandigarh University",
-        "year": "2022 - 2026"
+        "institution": "Tamil Nadu Dr. M.G.R. Medical University",
+        "year": "2019 - 2024"
       }
     ],
     "languages": [
-      "English (Full Professional)",
-      "Hindi (Full Professional)",
-      "Bhojpuri (Professional Working)"
+      "English (Professional)",
+      "Tamil (Native)",
+      "Malayalam (Limited)"
     ],
-    "profileToken": "U2FsdGVkX1997uAfdaj2X5fkDUmOaKeXb+ev1x7Sj7s=",
-    "migratedAt": "2026-04-08T10:19:25.906Z"
+    "profileToken": "U2FsdGVkX1//DhVZjgVX4h2GZQY+n2du+sYSxV4ZRs0=",
+    "migratedAt": "2026-04-08T10:20:22.326Z"
   }
 ]
