@@ -1,0 +1,38 @@
+[
+  {
+    "id": "vk-college",
+    "type": "college",
+    "name": "VK College of Optometry",
+    "title": "Leading Optometry College in Madurai | B.Sc & Diploma Programs",
+    "experience": [],
+    "location": "Madurai, Tamilnadu, India",
+    "description": "VK College of Optometry, a premier institution in Madurai, is dedicated to developing the next generation of vision experts and primary eye care professionals. Our mission is to provide top-tier optometry education and combat avoidable blindness through skilled graduates.",
+    "skills": [
+      "B.Sc Optometry Degree",
+      "Diploma in Ophthalmic Techniques",
+      "Clinical Training & Internships",
+      "Community Eye Health",
+      "Industry-Integrated Curriculum",
+      "Expert Faculty Mentorship"
+    ],
+    "interests": [
+      "Optometry Education",
+      "Eye Care Careers"
+    ],
+    "bio": "VK College of Optometry, a premier institution in Madurai, is dedicated to developing the next generation of vision experts and primary eye care professionals. Our mission is to provide top-tier optometry education and combat avoidable blindness through skilled graduates. Led by a talented team of Senior Ophthalmology Professors and experienced Optometrists, VK College of Optometry nurtures students with the passion and skill to excel in the field of vision science.",
+    "links": {
+      "website": "https://vkinstitutions.in/",
+      "email": "vkinstitution@gmail.com"
+    },
+    "image": "https://vkinstitutions.in/assets/images/pre-logo.png",
+    "verified": true,
+    "flCredits": 2500,
+    "joinedDate": "January 2024",
+    "education": [],
+    "languages": [],
+    "profileToken": "",
+    "_isMigrated": false,
+    "archivedAt": "2026-04-08T10:50:06.430Z",
+    "status": "archived"
+  }
+]
