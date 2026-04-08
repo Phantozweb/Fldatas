@@ -87,5 +87,79 @@
     ],
     "profileToken": "U2FsdGVkX18uW3oQbPjU1HUsWT016mrpct+zzYtdStM=",
     "migratedAt": "2026-04-08T09:44:36.539Z"
+  },
+  {
+    "timestamp": "2026-04-08T10:17:57.697Z",
+    "membershipId": "FL41VALM",
+    "name": "Braseetha A",
+    "email": "",
+    "whatsapp": "",
+    "linkedin": "",
+    "role": "",
+    "country": "",
+    "location": "Madurai, Tamil Nadu, India",
+    "id": "2",
+    "type": "student",
+    "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
+    "experience": [
+      {
+        "title": "First Prize – Science Exhibition",
+        "company": "VK College of Science and Optometry",
+        "duration": "2024",
+        "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
+      },
+      {
+        "title": "Participant",
+        "company": "EuyunCare",
+        "duration": "2024",
+        "description": "Participated in the International Webinar Series on Specialty Contact Lenses."
+      }
+    ],
+    "description": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids.",
+    "isFounder": false,
+    "verified": true,
+    "verifiedRole": "",
+    "flCredits": 150,
+    "joinedDate": "August 2024",
+    "badges": [],
+    "skills": [
+      "Diagnosing and managing eye conditions",
+      "Prescribing corrective lenses",
+      "Refraction",
+      "Contact lens fitting",
+      "Instruments handling",
+      "Clinical skills & patient communication",
+      "Research",
+      "Team collaboration",
+      "Analytical thinking"
+    ],
+    "interests": [
+      "Pediatric Vision Care",
+      "Binocular Vision Assessment",
+      "Congenital Ocular Motor Anomalies",
+      "Concept-based Learning",
+      "Peer Learning",
+      "Research Methodology"
+    ],
+    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies. I love simplifying complex academic topics through concept maps, structured notes, and visual learning aids making learning accessible and engaging. Beyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.",
+    "links": {
+      "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
+      "email": "brasee66@gmail.com"
+    },
+    "image": "none",
+    "education": [
+      {
+        "degree": "Bachelor of Optometry (B.Optom)",
+        "institution": "Alagappa University",
+        "year": "2023 - 2027"
+      }
+    ],
+    "languages": [
+      "English (Full Professional)",
+      "Tamil (Native)",
+      "Hindi (Limited Working)"
+    ],
+    "profileToken": "U2FsdGVkX19gifI+40lTEssaXOZY0eue3EWW92P0Mu0=",
+    "migratedAt": "2026-04-08T10:17:57.700Z"
   }
 ]
