@@ -1,0 +1,72 @@
+{
+  "id": "21",
+  "type": "student",
+  "name": "Esakkiammal Iyyappan",
+  "title": "Master of Optometry Student | Former Clinical Optometrist",
+  "experience": [
+    {
+      "title": "Clinical Optometrist & Academic Tutor",
+      "company": "Aravind Eye Care System",
+      "duration": "Aug 2024 - Aug 2025",
+      "description": "Efficiently managed and performed comprehensive eye examinations daily for over 3700 patients, conducted over 140 classes for students, and specialized in pediatric refraction and orthoptic evaluations."
+    },
+    {
+      "title": "Optometry Intern",
+      "company": "Bejan Singh Eye Hospital",
+      "duration": "Feb 2023 - Mar 2024",
+      "description": "Completed a comprehensive internship gaining foundational clinical experience."
+    }
+  ],
+  "location": "Chennai, Tamil Nadu, India",
+  "description": "I am Optom. Esakkiammal Iyyappan, passionate about advancing vision care through clinical excellence and continuous learning. With experience as both a Clinical Optometrist and Academic Tutor at the renowned Aravind Eye Hospital.",
+  "verified": true,
+  "verifiedRole": "Clinical Optometrist",
+  "flCredits": 1750,
+  "joinedDate": "November 2024",
+  "badges": [
+    "Aravind Alumni"
+  ],
+  "isFounder": false,
+  "skills": [
+    "Comprehensive Eye Examination",
+    "Pediatric Refraction",
+    "Orthoptic Evaluations",
+    "Specialty Contact Lens Fitting",
+    "Diagnostic Procedures",
+    "Patient Counseling",
+    "Academic Tutoring",
+    "Low Vision & Rehabilitation"
+  ],
+  "interests": [
+    "Pediatric Optometry",
+    "Contact Lenses",
+    "Low Vision",
+    "Evidence-Based Practice",
+    "Clinical Research"
+  ],
+  "bio": "I am Optom. Esakkiammal Iyyappan, passionate about advancing vision care through clinical excellence and continuous learning. With experience as both a Clinical Optometrist and Academic Tutor at the renowned Aravind Eye Hospital, I have a strong foundation in patient care and education. My goal is to bridge the gap between practice and education. I am currently pursuing a Master of Optometry at The Sankara Nethralaya Academy to further specialize and contribute to improving visual health through evidence-based practice, research, and teaching.",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/esakkiammal-iyyappan-263953217",
+    "email": "dhanasriiyyappan2020@gmail.com"
+  },
+  "image": "https://media.licdn.com/dms/image/v2/D5603AQGqudTp058K9g/profile-displayphoto-crop_800_800/B56ZpaKBmYKEAI-/0/1762449170789?e=1764806400&v=beta&t=I8iXNg6bkBhjaw8LvLO4oFfyGkxhWJ01yQLEd3qdRoU",
+  "education": [
+    {
+      "degree": "Master of Optometry",
+      "institution": "Sankara Nethralaya",
+      "year": "2025 - 2027"
+    },
+    {
+      "degree": "Bachelor of Optometry",
+      "institution": "Tamil Nadu Dr. M.G.R. Medical University",
+      "year": "2019 - 2024"
+    }
+  ],
+  "languages": [
+    "English (Professional)",
+    "Tamil (Native)",
+    "Malayalam (Limited)"
+  ],
+  "profileToken": "",
+  "membershipId": "1stpOSFWTK"
+}
