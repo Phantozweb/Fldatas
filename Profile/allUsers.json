@@ -89,68 +89,67 @@
     "migratedAt": "2026-04-08T09:44:36.539Z"
   },
   {
-    "timestamp": "2026-04-08T10:19:07.858Z",
-    "membershipId": "FLH816EI",
-    "name": "M. Mega Dharshini",
-    "email": "",
-    "whatsapp": "",
-    "linkedin": "",
+    "timestamp": "2026-04-08T10:19:25.905Z",
+    "membershipId": "FLJ88EY0",
+    "name": "Rudra Kumar Sinha",
+    "email": "rudrakumarsinha4@gmail.com",
+    "whatsapp": "917992383874",
+    "linkedin": "https://www.linkedin.com/in/rudra-kumar-sinha-29499617a?utm_souOrpcteo=msehtarriset&utm_campaign=share_via&utm_content=proInfidleia&utm_mediumM=oarnaddraobida_da",
     "role": "",
     "country": "",
-    "location": "Tirunelveli, Tamil Nadu, India",
-    "id": "7",
+    "location": "Moradabad, Uttar Pradesh, India",
+    "id": "11",
     "type": "student",
-    "title": "B.Optom Student | Former State Head - Tamil Nadu",
+    "title": "Optometry Intern at CL Gupta Eye Institute | B.Optometry Student",
     "experience": [
       {
-        "title": "State Head - Tamil Nadu",
-        "company": "Optobharat",
-        "duration": "2024 - 2025",
-        "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
-      },
-      {
-        "title": "Community Eye Camp Participant",
-        "company": "Vision Screening Camps",
-        "duration": "2023 - Present (5 Camps)",
-        "description": "Assisted with vision screenings and patient management in community settings."
+        "title": "Intern Optometrist",
+        "company": "C L Gupta Eye Institute",
+        "duration": "Jul 2025 - Present",
+        "description": "Performing comprehensive eye examinations, refraction, tonometry, and patient counseling at a leading eye care institution."
       }
     ],
-    "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
+    "description": "I'm Rudra Kumar Sinha, a dedicated and enthusiastic optometry intern at CL Gupta Eye Institute, currently pursuing a Bachelor of Optometry at Chandigarh University. My core interests lie in contact lenses, ocular diseases, and vision science innovation.",
     "isFounder": false,
     "verified": true,
-    "verifiedRole": "",
-    "flCredits": 320,
-    "joinedDate": "January 2025",
-    "badges": [],
+    "verifiedRole": "Eye Q Arena 2025 Champion",
+    "flCredits": 1100,
+    "joinedDate": "December 2024",
+    "badges": [
+      "Eye Q Arena Winner"
+    ],
     "skills": [
-      "Vision Examination & Refraction",
-      "Auto-Refractometer (AR) & NCT Operation",
-      "Patient Handling & Consultation",
-      "Systematic Review & Research",
-      "Poster Presentation"
+      "Refraction",
+      "Applanation Tonometer",
+      "Marketing and Outreach",
+      "Patient Counseling",
+      "Teamwork"
     ],
     "interests": [
-      "Dispensing Optics",
+      "Innovation in healthcare",
       "Contact Lenses",
-      "Community Outreach"
+      "Ocular Diseases",
+      "Vision Science"
     ],
-    "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
+    "bio": "I'm Rudra Kumar Sinha, a dedicated and enthusiastic optometry intern at CL Gupta Eye Institute, currently pursuing a Bachelor of Optometry at Chandigarh University. My core interests lie in contact lenses, ocular diseases, and vision science innovation. With a strong academic foundation and hands-on clinical exposure, I've conducted research on AI-based digital handheld ophthalmoscopes exploring how technology can revolutionize eye care in underserved regions.",
     "links": {
-      "email": "megadharshini999@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/rudra-kumar-sinha-29499617a",
+      "email": "rudrakumarsinha4@gmail.com"
     },
-    "image": "none",
+    "image": "https://i.ibb.co/v6XJ3B7X/1747244504223.jpg",
     "education": [
       {
         "degree": "Bachelor of Optometry",
-        "institution": "VK College of Optometry, Madurai",
-        "year": "Present (Third Year)"
+        "institution": "Chandigarh University",
+        "year": "2022 - 2026"
       }
     ],
     "languages": [
-      "English",
-      "Tamil"
+      "English (Full Professional)",
+      "Hindi (Full Professional)",
+      "Bhojpuri (Professional Working)"
     ],
-    "profileToken": "U2FsdGVkX18fo0+G1h/+1PMjLrkG75yoE6MdQwVJHY4=",
-    "migratedAt": "2026-04-08T10:19:07.860Z"
+    "profileToken": "U2FsdGVkX1997uAfdaj2X5fkDUmOaKeXb+ev1x7Sj7s=",
+    "migratedAt": "2026-04-08T10:19:25.906Z"
   }
 ]
