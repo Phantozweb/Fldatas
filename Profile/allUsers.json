@@ -89,82 +89,57 @@
     "migratedAt": "2026-04-08T09:44:36.539Z"
   },
   {
-    "timestamp": "2026-04-08T10:20:22.324Z",
-    "membershipId": "FL2KGYQ1",
-    "name": "Esakkiammal Iyyappan",
-    "email": "esakkiammaliyyappan2025@gmail.com",
-    "whatsapp": "919384598501",
-    "linkedin": "https://www.linkedin.com/in/esakkiammal-iyyappan-263953217",
-    "role": "Student",
-    "country": "India",
-    "location": "Chennai, Tamil Nadu, India",
-    "id": "21",
+    "timestamp": "2026-04-08T10:20:42.389Z",
+    "membershipId": "FLPZPM00",
+    "name": "Monalisa Behera",
+    "email": "monalisabehers30@gmail.com",
+    "whatsapp": "918144138957",
+    "linkedin": "https://www.linkedin.com/in/monalisa-behera-997361321?utm_sourScetu=dsehnatre&utm_campaign=share_via&utm_content=profIinled&iautm_medium=Kahnodrrdohida_,",
+    "role": "",
+    "country": "",
+    "location": "Khurda, Odisha, India",
+    "id": "monalisa-behera",
     "type": "student",
-    "title": "Master of Optometry Student | Former Clinical Optometrist",
-    "experience": [
-      {
-        "title": "Clinical Optometrist & Academic Tutor",
-        "company": "Aravind Eye Care System",
-        "duration": "Aug 2024 - Aug 2025",
-        "description": "Efficiently managed and performed comprehensive eye examinations daily for over 3700 patients, conducted over 140 classes for students, and specialized in pediatric refraction and orthoptic evaluations."
-      },
-      {
-        "title": "Optometry Intern",
-        "company": "Bejan Singh Eye Hospital",
-        "duration": "Feb 2023 - Mar 2024",
-        "description": "Completed a comprehensive internship gaining foundational clinical experience."
-      }
-    ],
-    "description": "I am Optom. Esakkiammal Iyyappan, passionate about advancing vision care through clinical excellence and continuous learning. With experience as both a Clinical Optometrist and Academic Tutor at the renowned Aravind Eye Hospital.",
+    "title": "First-Year Optometry Student | Head of Outreach",
+    "experience": [],
+    "description": "Hi everyone! I'm Monalisa, a first-year Optometry student at Trilochan School of Optometry. I'm passionate about all aspects of eye health and love creating engaging content to raise awareness about the importance of optometry and proper eye care.",
     "isFounder": false,
     "verified": true,
-    "verifiedRole": "Clinical Optometrist",
-    "flCredits": 750,
-    "joinedDate": "November 2024",
+    "verifiedRole": "Head of Outreach",
+    "flCredits": 450,
+    "joinedDate": "October 2024",
     "badges": [
-      "Aravind Alumni"
+      "Head of Outreach"
     ],
     "skills": [
-      "Comprehensive Eye Examination",
-      "Pediatric Refraction",
-      "Orthoptic Evaluations",
-      "Specialty Contact Lens Fitting",
-      "Diagnostic Procedures",
-      "Patient Counseling",
-      "Academic Tutoring",
-      "Low Vision & Rehabilitation"
+      "Content Creation",
+      "Social Media",
+      "Public Speaking"
     ],
     "interests": [
-      "Pediatric Optometry",
-      "Contact Lenses",
-      "Low Vision",
-      "Evidence-Based Practice",
-      "Clinical Research"
+      "Content Creation",
+      "Eye Care Awareness",
+      "Public Health"
     ],
-    "bio": "I am Optom. Esakkiammal Iyyappan, passionate about advancing vision care through clinical excellence and continuous learning. With experience as both a Clinical Optometrist and Academic Tutor at the renowned Aravind Eye Hospital, I have a strong foundation in patient care and education. My goal is to bridge the gap between practice and education. I am currently pursuing a Master of Optometry at The Sankara Nethralaya Academy to further specialize and contribute to improving visual health through evidence-based practice, research, and teaching.",
+    "bio": "Hi everyone! I'm Monalisa, a first-year Optometry student at Trilochan School of Optometry. I'm passionate about all aspects of eye health and love creating engaging content to raise awareness about the importance of optometry and proper eye care.",
     "links": {
-      "linkedin": "https://www.linkedin.com/in/esakkiammal-iyyappan-263953217",
-      "email": "dhanasriiyyappan2020@gmail.com"
+      "linkedin": "https://www.linkedin.com/in/monalisa-behera-997361321",
+      "email": "monalisabehers30@gmail.com"
     },
-    "image": "https://media.licdn.com/dms/image/v2/D5603AQGqudTp058K9g/profile-displayphoto-crop_800_800/B56ZpaKBmYKEAI-/0/1762449170789?e=1764806400&v=beta&t=I8iXNg6bkBhjaw8LvLO4oFfyGkxhWJ01yQLEd3qdRoU",
+    "image": "https://i.ibb.co/q3nPKVwx/IMG-20250825-203303-668.webp",
     "education": [
       {
-        "degree": "Master of Optometry",
-        "institution": "Sankara Nethralaya",
-        "year": "2025 - 2027"
-      },
-      {
-        "degree": "Bachelor of Optometry",
-        "institution": "Tamil Nadu Dr. M.G.R. Medical University",
-        "year": "2019 - 2024"
+        "degree": "B.Sc. Optometry",
+        "institution": "Trilochan Netralaya School of Optometry",
+        "year": "2024 - 2028"
       }
     ],
     "languages": [
-      "English (Professional)",
-      "Tamil (Native)",
-      "Malayalam (Limited)"
+      "English",
+      "Hindi",
+      "Odia"
     ],
-    "profileToken": "U2FsdGVkX1//DhVZjgVX4h2GZQY+n2du+sYSxV4ZRs0=",
-    "migratedAt": "2026-04-08T10:20:22.326Z"
+    "profileToken": "U2FsdGVkX1/6ifhWb0Q9nmNpQNp5lRsLdgAFGWXF55g=",
+    "migratedAt": "2026-04-08T10:20:42.391Z"
   }
 ]
