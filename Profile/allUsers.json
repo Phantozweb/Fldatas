@@ -89,75 +89,85 @@
     "migratedAt": "2026-04-08T09:44:36.539Z"
   },
   {
-    "timestamp": "2026-04-08T10:21:44.196Z",
-    "membershipId": "FLDGUXES",
-    "name": "Sabitabrata Panja",
-    "email": "sbpanjaoptm99@gmail.com",
-    "whatsapp": "919647763268",
-    "linkedin": "https://www.linkedin.com/in/sabitabrata-panja-50b3bb229?utm_souOrcpet=osmheatrreis&tutm_campaign=share_via&utm_content=proIfniled&iautm_mediumB=aanndkruoriad_app",
+    "timestamp": "2026-04-08T10:22:00.067Z",
+    "membershipId": "FLOEQJS6",
+    "name": "Mohd Tahseen Raza Khan",
+    "email": "tahseenrazakhan123@gmail.com",
+    "whatsapp": "917983062432",
+    "linkedin": "https://www.linkedin.com/in/mohd-tahseen-raza-khan-mtrk?utm_souOrpceto=msheatrriset&utm_campaign=share_via&utm_content=proInfidleia&utm_mediumU=tatanrd",
     "role": "",
     "country": "",
-    "location": "West Bengal",
-    "id": "4",
+    "location": "Bareilly, Uttar Pradesh, India",
+    "id": "15",
     "type": "professional",
-    "title": "Clinical Optometrist | 4 Years Experience",
+    "title": "Speciality Contact Lens Practitioner | Trainer | Consultant Optometrist",
     "experience": [
       {
-        "title": "Optometrist",
-        "company": "Bhoomika Eye Hospital",
-        "duration": "April 2023 - Present",
-        "description": ""
+        "title": "Professional Services",
+        "company": "VisiXpert",
+        "duration": "Nov 2024 - Present",
+        "location": "Bareilly, UP",
+        "description": "Speciality contact lens - manage, presentation, training, practitioner, communication, sales"
+      },
+      {
+        "title": "Sales Manager and CL Specialist",
+        "company": "Parekh Integrated Services Pvt. Ltd.",
+        "duration": "Dec 2023 - Jun 2024",
+        "description": "Speciality contact lens - manage, presentation, training, practitioner, communication, sales"
       },
       {
         "title": "Optometrist",
-        "company": "Disha Eye Hospital",
-        "duration": "June 2021 - March 2023",
+        "company": "Global Eye Hospital India",
+        "duration": "Oct 2022 - Jun 2023",
         "description": ""
       }
     ],
-    "description": "I am confident in handling refraction, patient counseling, dispensing of spectacles, and managing primary eye care responsibilities at a vision centre. I am fluent in Hindi, which will help me communicate effectively with patients and team members.",
+    "description": "Passionate and dedicated Speciality Contact Lens Practitioner and Optometrist in providing comprehensive eye care and personalized contact lens solutions. Expertise in fitting and managing specialty contact lenses for complex corneal conditions. As a dedicated Scleral Lens Specialist, Orthokeratology Advocate, and Myopia Control Enthusiast, I'm on a mission to transform lives through exceptional vision care.",
     "isFounder": false,
     "verified": true,
     "verifiedRole": "",
-    "flCredits": 450,
+    "flCredits": 1250,
     "joinedDate": "March 2024",
     "badges": [],
     "skills": [
-      "Diabetic Retinopathy",
-      "Contact lens",
-      "Dispensing optics",
-      "Opd diagnosis"
+      "Scleral Lenses",
+      "Orthokeratology",
+      "Myopia Control",
+      "RGP Lenses",
+      "Dry Eye Management",
+      "Corneal Topography",
+      "Clinical Training"
     ],
-    "interests": [
-      "Clinical Research",
-      "Low vision aids",
-      "Binocular rehabilitation"
-    ],
-    "bio": "I am confident in handling refraction, patient counseling, dispensing of spectacles, and managing primary eye care responsibilities at a vision centre. I am fluent in Hindi, which will help me communicate effectively with patients and team members.",
+    "interests": [],
+    "bio": "Passionate and dedicated Speciality Contact Lens Practitioner and Optometrist in providing comprehensive eye care and personalized contact lens solutions. Expertise in fitting and managing specialty contact lenses for complex corneal conditions. Skilled in delivering engaging and informative presentations, translating complex concepts into accessible knowledge for diverse audiences. Committed to continuous learning and staying abreast of the latest advancements in eye care. As a dedicated Scleral Lens Specialist, Orthokeratology Advocate, and Myopia Control Enthusiast, I'm on a mission to transform lives through exceptional vision care.",
     "links": {
-      "linkedin": "https://www.linkedin.com/in/sabitabrata-panja-50b3bb229",
-      "email": "sabitabratapanja1999@gmail.com"
+      "email": "tahseenrazakhan123@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mohd-tahseen-raza-khan-mtrk"
     },
-    "image": "https://iili.io/KuWfZUx.md.jpg",
+    "image": "https://i.ibb.co/XrNB2vVJ/5-S9-A8865-2.jpg",
     "education": [
       {
-        "degree": "Batchelor Of Optometry",
-        "institution": "Swami vivekananda university, Barrackpore",
-        "year": "2022 - 2025"
+        "degree": "MSc. Optometry",
+        "institution": "Sikkim Skill University",
+        "year": "2022 - 2024"
       },
       {
-        "degree": "Diploma in Optometry",
-        "institution": "State Medical Faculty W.B",
-        "year": "2018 - 2021"
+        "degree": "Fellowship in Speciality Contact Lenses",
+        "institution": "Silver Line Laboratories Delhi",
+        "year": "2023"
+      },
+      {
+        "degree": "Bachelor of Science in Optometry",
+        "institution": "SRMS Institutions",
+        "year": "2017 - 2022"
       }
     ],
     "languages": [
-      "Bengali",
-      "Hindi",
-      "English",
-      "Oriya"
+      "Hindi (Full Professional)",
+      "English (Professional)",
+      "Urdu (Limited Working)"
     ],
-    "profileToken": "U2FsdGVkX19tbeNXEF/ypq07NhD57IxKQbDnMEErWPg=",
-    "migratedAt": "2026-04-08T10:21:44.197Z"
+    "profileToken": "U2FsdGVkX1/vZ5Tkx1dmBp+p3dWTAgZ+iSyE1Ww6tTE=",
+    "migratedAt": "2026-04-08T10:22:00.068Z"
   }
 ]
