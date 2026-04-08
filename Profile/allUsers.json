@@ -89,69 +89,75 @@
     "migratedAt": "2026-04-08T09:44:36.539Z"
   },
   {
-    "timestamp": "2026-04-08T10:21:15.268Z",
-    "membershipId": "FLIDJELA",
-    "name": "Manish Bhagat",
-    "email": "",
-    "whatsapp": "",
-    "linkedin": "",
+    "timestamp": "2026-04-08T10:21:44.196Z",
+    "membershipId": "FLDGUXES",
+    "name": "Sabitabrata Panja",
+    "email": "sbpanjaoptm99@gmail.com",
+    "whatsapp": "919647763268",
+    "linkedin": "https://www.linkedin.com/in/sabitabrata-panja-50b3bb229?utm_souOrcpet=osmheatrreis&tutm_campaign=share_via&utm_content=proIfniled&iautm_mediumB=aanndkruoriad_app",
     "role": "",
     "country": "",
-    "location": "Noida/Delhi NCR, India",
-    "id": "manish-bhagat",
+    "location": "West Bengal",
+    "id": "4",
     "type": "professional",
-    "title": "Head — Visual Eyez India | Consultant Optometrist",
+    "title": "Clinical Optometrist | 4 Years Experience",
     "experience": [
       {
-        "title": "Head",
-        "company": "Visual Eyez India",
-        "duration": "Present",
-        "description": "Leading the specialty contact lens and myopia management clinic, providing advanced solutions for complex corneal conditions."
+        "title": "Optometrist",
+        "company": "Bhoomika Eye Hospital",
+        "duration": "April 2023 - Present",
+        "description": ""
       },
       {
-        "title": "Consultant Optometrist",
-        "company": "LV Prasad Eye Institute",
-        "duration": "Past",
-        "description": "Completed Contact Lens Residency and specialized in complex contact lens fittings."
+        "title": "Optometrist",
+        "company": "Disha Eye Hospital",
+        "duration": "June 2021 - March 2023",
+        "description": ""
       }
     ],
-    "description": "Manish Bhagat is a Contact Lens Specialist and Orthokeratologist with extensive experience in myopia management. He completed his Contact Lens Residency at LV Prasad Eye Institute (LVPEI) and is an active member of the International Academy of Orthokeratology and Myopia Control (IAOMC). He has published multiple peer-reviewed papers on scleral lenses and rigid corneal lenses.",
+    "description": "I am confident in handling refraction, patient counseling, dispensing of spectacles, and managing primary eye care responsibilities at a vision centre. I am fluent in Hindi, which will help me communicate effectively with patients and team members.",
     "isFounder": false,
     "verified": true,
     "verifiedRole": "",
-    "flCredits": 500,
-    "joinedDate": "January 2024",
-    "badges": [
-      "Speaker"
-    ],
+    "flCredits": 450,
+    "joinedDate": "March 2024",
+    "badges": [],
     "skills": [
-      "Orthokeratology",
-      "Myopia Management",
-      "Scleral Lenses",
-      "Rigid Corneal Lenses",
-      "Specialty Contact Lenses"
+      "Diabetic Retinopathy",
+      "Contact lens",
+      "Dispensing optics",
+      "Opd diagnosis"
     ],
-    "interests": [],
-    "bio": "Manish Bhagat is a Contact Lens Specialist and Orthokeratologist with extensive experience in myopia management. He completed his Contact Lens Residency at LV Prasad Eye Institute (LVPEI) and is an active member of the International Academy of Orthokeratology and Myopia Control (IAOMC). He has published multiple peer-reviewed papers on scleral lenses and rigid corneal lenses.",
+    "interests": [
+      "Clinical Research",
+      "Low vision aids",
+      "Binocular rehabilitation"
+    ],
+    "bio": "I am confident in handling refraction, patient counseling, dispensing of spectacles, and managing primary eye care responsibilities at a vision centre. I am fluent in Hindi, which will help me communicate effectively with patients and team members.",
     "links": {
-      "linkedin": "",
-      "email": "manish@visualeyez.in"
+      "linkedin": "https://www.linkedin.com/in/sabitabrata-panja-50b3bb229",
+      "email": "sabitabratapanja1999@gmail.com"
     },
-    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=300&h=300",
+    "image": "https://iili.io/KuWfZUx.md.jpg",
     "education": [
       {
-        "degree": "Master of Optometry (M.Optom)",
-        "institution": "Amity University",
-        "year": "2018 - 2020"
+        "degree": "Batchelor Of Optometry",
+        "institution": "Swami vivekananda university, Barrackpore",
+        "year": "2022 - 2025"
       },
       {
-        "degree": "Bachelor of Optometry (B.Optom)",
-        "institution": "NSHM College of Management",
-        "year": "2014 - 2018"
+        "degree": "Diploma in Optometry",
+        "institution": "State Medical Faculty W.B",
+        "year": "2018 - 2021"
       }
     ],
-    "languages": [],
-    "profileToken": "U2FsdGVkX19vplxs4I9lMEnMKU2mKlsXpSE4rTlwsm4=",
-    "migratedAt": "2026-04-08T10:21:15.270Z"
+    "languages": [
+      "Bengali",
+      "Hindi",
+      "English",
+      "Oriya"
+    ],
+    "profileToken": "U2FsdGVkX19tbeNXEF/ypq07NhD57IxKQbDnMEErWPg=",
+    "migratedAt": "2026-04-08T10:21:44.197Z"
   }
 ]
