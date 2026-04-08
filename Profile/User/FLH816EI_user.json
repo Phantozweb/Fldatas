@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-04-08T10:19:07.858Z",
+  "membershipId": "FLH816EI",
+  "name": "M. Mega Dharshini",
+  "email": "",
+  "whatsapp": "",
+  "linkedin": "",
+  "role": "",
+  "country": "",
+  "location": "Tirunelveli, Tamil Nadu, India",
+  "id": "7",
+  "type": "student",
+  "title": "B.Optom Student | Former State Head - Tamil Nadu",
+  "experience": [
+    {
+      "title": "State Head - Tamil Nadu",
+      "company": "Optobharat",
+      "duration": "2024 - 2025",
+      "description": "Led state-level initiatives and student engagement for a prominent optometry organization."
+    },
+    {
+      "title": "Community Eye Camp Participant",
+      "company": "Vision Screening Camps",
+      "duration": "2023 - Present (5 Camps)",
+      "description": "Assisted with vision screenings and patient management in community settings."
+    }
+  ],
+  "description": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses.",
+  "isFounder": false,
+  "verified": true,
+  "verifiedRole": "",
+  "flCredits": 320,
+  "joinedDate": "January 2025",
+  "badges": [],
+  "skills": [
+    "Vision Examination & Refraction",
+    "Auto-Refractometer (AR) & NCT Operation",
+    "Patient Handling & Consultation",
+    "Systematic Review & Research",
+    "Poster Presentation"
+  ],
+  "interests": [
+    "Dispensing Optics",
+    "Contact Lenses",
+    "Community Outreach"
+  ],
+  "bio": "A third-year Optometry student with leadership experience as the State Head for Optobharat in Tamil Nadu. Passionate about community outreach, dispensing optics, and contact lenses. Proven research and presentation skills through systematic reviews and conference participation.",
+  "links": {
+    "email": "megadharshini999@gmail.com"
+  },
+  "image": "none",
+  "education": [
+    {
+      "degree": "Bachelor of Optometry",
+      "institution": "VK College of Optometry, Madurai",
+      "year": "Present (Third Year)"
+    }
+  ],
+  "languages": [
+    "English",
+    "Tamil"
+  ],
+  "profileToken": "U2FsdGVkX18fo0+G1h/+1PMjLrkG75yoE6MdQwVJHY4=",
+  "migratedAt": "2026-04-08T10:19:07.860Z"
+}
