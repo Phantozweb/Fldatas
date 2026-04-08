@@ -89,57 +89,86 @@
     "migratedAt": "2026-04-08T09:44:36.539Z"
   },
   {
-    "timestamp": "2026-04-08T10:20:42.389Z",
-    "membershipId": "FLPZPM00",
-    "name": "Monalisa Behera",
-    "email": "monalisabehers30@gmail.com",
-    "whatsapp": "918144138957",
-    "linkedin": "https://www.linkedin.com/in/monalisa-behera-997361321?utm_sourScetu=dsehnatre&utm_campaign=share_via&utm_content=profIinled&iautm_medium=Kahnodrrdohida_,",
+    "timestamp": "2026-04-08T10:20:58.760Z",
+    "membershipId": "FL7779P7",
+    "name": "Faith Wanjugu",
+    "email": "",
+    "whatsapp": "",
+    "linkedin": "",
     "role": "",
     "country": "",
-    "location": "Khurda, Odisha, India",
-    "id": "monalisa-behera",
+    "location": "Kakamega, Kenya",
+    "id": "faith-wanjugu",
     "type": "student",
-    "title": "First-Year Optometry Student | Head of Outreach",
-    "experience": [],
-    "description": "Hi everyone! I'm Monalisa, a first-year Optometry student at Trilochan School of Optometry. I'm passionate about all aspects of eye health and love creating engaging content to raise awareness about the importance of optometry and proper eye care.",
+    "title": "College Ambassador | 5th year Bsc Optometry and Vision Science",
+    "experience": [
+      {
+        "title": "College Ambassador",
+        "company": "Masinde Muliro University of Science and Technology",
+        "duration": "2025 - Present",
+        "description": "Serving as a representative for the university's optometry program."
+      },
+      {
+        "title": "President",
+        "company": "Masinde Muliro University Optometry Students Association (MMUOSA)",
+        "duration": "2025 - 2026",
+        "description": "Organized academic workshops, community outreach, and vision-screening events."
+      },
+      {
+        "title": "Vice President",
+        "company": "AFOS",
+        "duration": "2024 - Present",
+        "description": "Collaborated with executive teams across institutions to promote professional development."
+      },
+      {
+        "title": "Clinical Attachment",
+        "company": "Embu level 5 hospital",
+        "duration": "Apr 2025 - Aug 2025",
+        "description": "Performed refraction, slit-lamp examination, and ocular health screenings under supervision."
+      }
+    ],
+    "description": "I'm a passionate optometry student, currently serving as Mmuosa chairperson and AFOS vice president. I would like to venture into the field of advocacy and research in optometry.",
     "isFounder": false,
     "verified": true,
-    "verifiedRole": "Head of Outreach",
-    "flCredits": 450,
-    "joinedDate": "October 2024",
+    "verifiedRole": "",
+    "flCredits": 620,
+    "joinedDate": "February 2025",
     "badges": [
-      "Head of Outreach"
+      "MMUOSA President"
     ],
     "skills": [
-      "Content Creation",
-      "Social Media",
-      "Public Speaking"
+      "Visual acuity assessment",
+      "Refraction",
+      "Slit-lamp biomicroscopy",
+      "Contact lens fitting",
+      "Fundus evaluation",
+      "Optical dispensing",
+      "Event planning and coordination",
+      "Team leadership and mentoring",
+      "Project management"
     ],
     "interests": [
-      "Content Creation",
-      "Eye Care Awareness",
-      "Public Health"
+      "Advocacy",
+      "Research",
+      "Community Eye Care"
     ],
-    "bio": "Hi everyone! I'm Monalisa, a first-year Optometry student at Trilochan School of Optometry. I'm passionate about all aspects of eye health and love creating engaging content to raise awareness about the importance of optometry and proper eye care.",
+    "bio": "I'm a passionate optometry student, currently serving as Mmuosa chairperson and AFOS vice president. I would like to venture into the field of advocacy and research in optometry.",
     "links": {
-      "linkedin": "https://www.linkedin.com/in/monalisa-behera-997361321",
-      "email": "monalisabehers30@gmail.com"
+      "email": "wanjugukimunyu2020@gmail.com"
     },
-    "image": "https://i.ibb.co/q3nPKVwx/IMG-20250825-203303-668.webp",
+    "image": "none",
     "education": [
       {
-        "degree": "B.Sc. Optometry",
-        "institution": "Trilochan Netralaya School of Optometry",
-        "year": "2024 - 2028"
+        "degree": "Bsc Optometry and Vision Science",
+        "institution": "Masinde Muliro University of Science and Technology",
+        "year": "Present (5th Year)"
       }
     ],
     "languages": [
       "English",
-      "Hindi",
-      "Odia"
+      "Kiswahili"
     ],
-    "profileToken": "U2FsdGVkX1/6ifhWb0Q9nmNpQNp5lRsLdgAFGWXF55g=",
-    "migratedAt": "2026-04-08T10:20:42.391Z"
+    "profileToken": "U2FsdGVkX18GXeDAcLBfxFboEoR51Sa+bhjUi2Eda0w=",
+    "migratedAt": "2026-04-08T10:20:58.761Z"
   }
 ]
