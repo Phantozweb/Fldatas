@@ -293,5 +293,81 @@
     "profileToken": "U2FsdGVkX1997uAfdaj2X5fkDUmOaKeXb+ev1x7Sj7s=",
     "migratedAt": "2026-04-08T10:19:25.906Z",
     "_isMigrated": true
+  },
+  {
+    "id": "silvester-ogweno",
+    "type": "student",
+    "name": "Silvester Ogweno Mang'ong'o",
+    "title": "B.Sc. Optometry & Vision Science Student",
+    "experience": [
+      {
+        "title": "Elementary Teacher",
+        "company": "REM High School, Nairobi South B",
+        "duration": "2023 - 2024 (8 months)",
+        "description": "Taught at REM High School for eight months."
+      },
+      {
+        "title": "Community Service Organizer",
+        "company": "Self-Initiated, Koromatangi, Kisumu",
+        "duration": "2023 - Present",
+        "description": "Organizing community service initiatives focused on eye care awareness."
+      },
+      {
+        "title": "Youth Leader",
+        "company": "Kasipul Constituency, Kodera, Kisumu",
+        "duration": "2022 - Present",
+        "description": "Leading youth initiatives and community engagement programs."
+      }
+    ],
+    "location": "Kakamega, Kenya",
+    "description": "Dynamic professional with strong adaptability, fast learning ability, and consistent delivery of high-quality work. Recognized for problem-solving skills, reliability and positive attitude.",
+    "verified": true,
+    "verifiedRole": "Regional Head of Kenya",
+    "flCredits": 800,
+    "joinedDate": "March 2025",
+    "badges": [
+      "Regional Head"
+    ],
+    "isFounder": false,
+    "skills": [
+      "Public Speaking",
+      "Writing",
+      "Problem-solving",
+      "Organizational Skills",
+      "Communication"
+    ],
+    "interests": [
+      "Pediatric Optometry",
+      "Community Service",
+      "Content Creation",
+      "Debating"
+    ],
+    "bio": "Dynamic professional with strong adaptability, fast learning ability, and consistent delivery of high-quality work. Recognized for problem-solving skills, reliability and positive attitude, great communication, and strong organizational ability. Demonstrates commitment to continuous improvement and works effectively independently or collaboratively.",
+    "links": {
+      "email": "sildamba20@gmail.com",
+      "linkedin": ""
+    },
+    "image": "https://i.ibb.co/PZmfcWqH/IMG-20251203-110801.jpg",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Optometry & Vision Science",
+        "institution": "Masinde Muliro University of Science and Technology",
+        "year": "2024 - Present"
+      },
+      {
+        "degree": "Kenya Certificate of Secondary Education (KCSE)",
+        "institution": "Maranda High School",
+        "year": "2018 - 2021"
+      }
+    ],
+    "languages": [
+      "English",
+      "Kiswahili",
+      "Luo"
+    ],
+    "profileToken": "U2FsdGVkX193Zs8BIwq5aIr2pcfFt1XGLgkwRnzdpVQ=",
+    "membershipId": "FLLU8USY",
+    "migratedAt": "2026-04-08T10:00:33.050Z",
+    "_isMigrated": true
   }
 ]
