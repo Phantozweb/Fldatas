@@ -1,0 +1,76 @@
+{
+  "id": "faith-wanjugu",
+  "type": "student",
+  "name": "Faith Wanjugu",
+  "title": "College Ambassador | 5th year Bsc Optometry and Vision Science",
+  "experience": [
+    {
+      "title": "College Ambassador",
+      "company": "Masinde Muliro University of Science and Technology",
+      "duration": "2025 - Present",
+      "description": "Serving as a representative for the university's optometry program."
+    },
+    {
+      "title": "President",
+      "company": "Masinde Muliro University Optometry Students Association (MMUOSA)",
+      "duration": "2025 - 2026",
+      "description": "Organized academic workshops, community outreach, and vision-screening events."
+    },
+    {
+      "title": "Vice President",
+      "company": "AFOS",
+      "duration": "2024 - Present",
+      "description": "Collaborated with executive teams across institutions to promote professional development."
+    },
+    {
+      "title": "Clinical Attachment",
+      "company": "Embu level 5 hospital",
+      "duration": "Apr 2025 - Aug 2025",
+      "description": "Performed refraction, slit-lamp examination, and ocular health screenings under supervision."
+    }
+  ],
+  "location": "Kakamega, Kenya",
+  "description": "I'm a passionate optometry student, currently serving as Mmuosa chairperson and AFOS vice president. I would like to venture into the field of advocacy and research in optometry.",
+  "verified": true,
+  "flCredits": 620,
+  "joinedDate": "February 2025",
+  "badges": [
+    "MMUOSA President"
+  ],
+  "isFounder": false,
+  "skills": [
+    "Visual acuity assessment",
+    "Refraction",
+    "Slit-lamp biomicroscopy",
+    "Contact lens fitting",
+    "Fundus evaluation",
+    "Optical dispensing",
+    "Event planning and coordination",
+    "Team leadership and mentoring",
+    "Project management"
+  ],
+  "interests": [
+    "Advocacy",
+    "Research",
+    "Community Eye Care"
+  ],
+  "bio": "I'm a passionate optometry student, currently serving as Mmuosa chairperson and AFOS vice president. I would like to venture into the field of advocacy and research in optometry.",
+  "links": {
+    "email": "wanjugukimunyu2020@gmail.com"
+  },
+  "image": "none",
+  "education": [
+    {
+      "degree": "Bsc Optometry and Vision Science",
+      "institution": "Masinde Muliro University of Science and Technology",
+      "year": "Present (5th Year)"
+    }
+  ],
+  "languages": [
+    "English",
+    "Kiswahili"
+  ],
+  "profileToken": "U2FsdGVkX19li+j5he0MtSQU79rfX+se60zyCKgwTjE=",
+  "membershipId": "FL1KCIGL",
+  "timestamp": "2026-04-11T17:01:50.881Z"
+}
