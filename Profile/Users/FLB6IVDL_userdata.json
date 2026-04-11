@@ -1,0 +1,48 @@
+{
+  "id": "monalisa-behera",
+  "type": "student",
+  "name": "Monalisa Behera",
+  "title": "First-Year Optometry Student | Head of Outreach",
+  "experience": [],
+  "location": "Khurda, Odisha, India",
+  "description": "Hi everyone! I'm Monalisa, a first-year Optometry student at Trilochan School of Optometry. I'm passionate about all aspects of eye health and love creating engaging content to raise awareness about the importance of optometry and proper eye care.",
+  "verified": true,
+  "verifiedRole": "Head of Outreach",
+  "flCredits": 1450,
+  "joinedDate": "October 2024",
+  "badges": [
+    "Head of Outreach"
+  ],
+  "isFounder": false,
+  "skills": [
+    "Content Creation",
+    "Social Media",
+    "Public Speaking"
+  ],
+  "interests": [
+    "Content Creation",
+    "Eye Care Awareness",
+    "Public Health"
+  ],
+  "bio": "Hi everyone! I'm Monalisa, a first-year Optometry student at Trilochan School of Optometry. I'm passionate about all aspects of eye health and love creating engaging content to raise awareness about the importance of optometry and proper eye care.",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/monalisa-behera-997361321",
+    "email": "monalisabehers30@gmail.com"
+  },
+  "image": "https://i.ibb.co/q3nPKVwx/IMG-20250825-203303-668.webp",
+  "education": [
+    {
+      "degree": "B.Sc. Optometry",
+      "institution": "Trilochan Netralaya School of Optometry",
+      "year": "2024 - 2028"
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Odia"
+  ],
+  "profileToken": "U2FsdGVkX1+mtDqHB3sv7d9mB9gSn6XAJF4xfyJp9gg=",
+  "membershipId": "FLB6IVDL",
+  "timestamp": "2026-04-11T17:05:09.530Z"
+}
