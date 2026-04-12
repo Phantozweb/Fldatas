@@ -2290,5 +2290,26 @@
     "name": "Sahanaz Hossain",
     "title": "optometrist",
     "location": "Burdwan , West Bengal , IN"
+  },
+  {
+    "entryId": "120426152815818",
+    "type": "membership_application",
+    "membershipId": "FLJ1SPAL",
+    "fullName": "Anjali Yadav",
+    "email": "anjaligie99@gmail.com",
+    "phone": "78957 05385",
+    "linkedin": "",
+    "profession": "optometrist",
+    "country": "",
+    "otherCountry": "",
+    "region": "",
+    "cityState": "",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-12T15:28:14.578Z",
+    "timestamp": "2026-04-12T15:28:15.818Z",
+    "name": "Anjali Yadav",
+    "title": "optometrist",
+    "location": ", , "
   }
 ]
