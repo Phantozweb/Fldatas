@@ -2374,5 +2374,26 @@
     "name": "Diganta Majumder",
     "title": "student",
     "location": "SHYAMNAGAR, WEST BENGAL, IN"
+  },
+  {
+    "entryId": "120426192140252",
+    "type": "membership_application",
+    "membershipId": "FLABR85D",
+    "fullName": "Moumita Roy",
+    "email": "royminati500@gmail.com",
+    "phone": "8697891386",
+    "linkedin": "https://www.linkedin.com/in/moumita-roy-604554362",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "West Bengal ",
+    "cityState": "Kolkata ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-12T19:21:38.618Z",
+    "timestamp": "2026-04-12T19:21:40.252Z",
+    "name": "Moumita Roy",
+    "title": "student",
+    "location": "Kolkata , West Bengal , IN"
   }
 ]
