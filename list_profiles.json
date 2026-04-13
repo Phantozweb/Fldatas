@@ -2626,5 +2626,26 @@
     "name": "Suhana Banu",
     "title": "student",
     "location": "Malda, WB, "
+  },
+  {
+    "entryId": "130426051859946",
+    "type": "membership_application",
+    "membershipId": "FL6DAIGI",
+    "fullName": "Suhana Banu",
+    "email": "banusuhana788@gmail.com",
+    "phone": "9332319237",
+    "linkedin": "",
+    "profession": "student",
+    "country": "",
+    "otherCountry": "",
+    "region": "WB",
+    "cityState": "Malda",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-13T05:18:59.074Z",
+    "timestamp": "2026-04-13T05:18:59.946Z",
+    "name": "Suhana Banu",
+    "title": "student",
+    "location": "Malda, WB, "
   }
 ]
