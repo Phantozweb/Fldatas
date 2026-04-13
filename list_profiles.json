@@ -2836,5 +2836,26 @@
     "name": "Mohit Saini",
     "title": "",
     "location": "Rohtak, Haryana, IN"
+  },
+  {
+    "entryId": "130426085232975",
+    "type": "membership_application",
+    "membershipId": "FL329NVK",
+    "fullName": "Meshel Makdesi",
+    "email": "meshelm98@gmail.com",
+    "phone": "+963988575772",
+    "linkedin": "",
+    "profession": "student",
+    "country": "Syria",
+    "otherCountry": "Syria",
+    "region": "Homs",
+    "cityState": "Qattinah",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-13T08:52:30.741Z",
+    "timestamp": "2026-04-13T08:52:32.975Z",
+    "name": "Meshel Makdesi",
+    "title": "student",
+    "location": "Qattinah, Homs, Syria"
   }
 ]
