@@ -3361,5 +3361,26 @@
     "name": "Sudhirkumar ",
     "title": "optometrist",
     "location": "Vadodara , Gujarat , IN"
+  },
+  {
+    "entryId": "150426100907868",
+    "type": "membership_application",
+    "membershipId": "FLXUYGY6",
+    "fullName": "Gcinile Faith Dlamini",
+    "email": "gcinilefaithdlamini@gmail.com",
+    "phone": "8093779930",
+    "linkedin": "https://www.linkedin.com/in/gcinile-dlamini-9a1521388?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Odisha",
+    "cityState": "Bhubaneswar ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-15T10:09:03.449Z",
+    "timestamp": "2026-04-15T10:09:07.868Z",
+    "name": "Gcinile Faith Dlamini",
+    "title": "student",
+    "location": "Bhubaneswar , Odisha, IN"
   }
 ]
