@@ -3214,5 +3214,26 @@
     "name": "Subham Burnwal",
     "title": "optometrist",
     "location": "Ambala , Haryana, IN"
+  },
+  {
+    "entryId": "150426055250255",
+    "type": "membership_application",
+    "membershipId": "FLYV1U2X",
+    "fullName": "MI’AD ADAMU",
+    "email": "miad49462@gmail.com",
+    "phone": "+917205831785",
+    "linkedin": "",
+    "profession": "student",
+    "country": "",
+    "otherCountry": "",
+    "region": "Odiaha",
+    "cityState": "Bhubaneawar",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-15T05:52:48.977Z",
+    "timestamp": "2026-04-15T05:52:50.255Z",
+    "name": "MI’AD ADAMU",
+    "title": "student",
+    "location": "Bhubaneawar, Odiaha, "
   }
 ]
