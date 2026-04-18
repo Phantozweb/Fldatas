@@ -3781,5 +3781,26 @@
     "name": "Sundaram Maurya",
     "title": "student",
     "location": "Kushinagar District, Uttar Pradesh, IN"
+  },
+  {
+    "entryId": "180426180243558",
+    "type": "membership_application",
+    "membershipId": "FL0DDR7B",
+    "fullName": "Palak",
+    "email": "kplk263@gmail.com",
+    "phone": "9464841826",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Punjab ",
+    "cityState": "Nabha",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-18T18:02:41.796Z",
+    "timestamp": "2026-04-18T18:02:43.558Z",
+    "name": "Palak",
+    "title": "student",
+    "location": "Nabha, Punjab , IN"
   }
 ]
