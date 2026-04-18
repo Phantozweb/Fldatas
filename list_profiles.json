@@ -3676,5 +3676,26 @@
     "name": "Anusha",
     "title": "optometrist",
     "location": "Bangalore, Karnataka, "
+  },
+  {
+    "entryId": "180426120350723",
+    "type": "membership_application",
+    "membershipId": "FL2QJ2RB",
+    "fullName": "Kashish Varshney",
+    "email": "kashishvarshney92@gmail.com",
+    "phone": "9193751552",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Uttar Pradesh",
+    "cityState": "Budaun",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-18T12:03:49.392Z",
+    "timestamp": "2026-04-18T12:03:50.723Z",
+    "name": "Kashish Varshney",
+    "title": "student",
+    "location": "Budaun, Uttar Pradesh, IN"
   }
 ]
