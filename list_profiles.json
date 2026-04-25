@@ -4222,5 +4222,26 @@
     "name": " Dr.PRABHAKAR MAURYA",
     "title": "clinic",
     "location": ", , "
+  },
+  {
+    "entryId": "250426042947842",
+    "type": "membership_application",
+    "membershipId": "FLG22D7U",
+    "fullName": "Samridhi Prasad",
+    "email": "prasadsamridhi8@gmail.com",
+    "phone": "7008291526",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Odisha",
+    "cityState": "Bhubaneshwar",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-25T04:29:46.514Z",
+    "timestamp": "2026-04-25T04:29:47.842Z",
+    "name": "Samridhi Prasad",
+    "title": "student",
+    "location": "Bhubaneshwar, Odisha, IN"
   }
 ]
