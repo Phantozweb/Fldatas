@@ -4306,5 +4306,26 @@
     "name": "Optom. Fakhrul Shahriya",
     "title": "optometrist",
     "location": "Feni Sadar, Feni, Bangladesh "
+  },
+  {
+    "entryId": "260426184033240",
+    "type": "membership_application",
+    "membershipId": "FLY0560D",
+    "fullName": "Priti Chandra Haldar ",
+    "email": "pritichandrahaldar@gmail.com",
+    "phone": "7432875084",
+    "linkedin": "",
+    "profession": "optometrist",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "West Bengal ",
+    "cityState": "Kolkata ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-26T18:40:32.307Z",
+    "timestamp": "2026-04-26T18:40:33.240Z",
+    "name": "Priti Chandra Haldar ",
+    "title": "optometrist",
+    "location": "Kolkata , West Bengal , IN"
   }
 ]
