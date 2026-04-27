@@ -1,0 +1,19 @@
+{
+  "name": "Aysha Razi",
+  "email": "aysha.razi2002@gmail.com",
+  "phone": "9336292288",
+  "whatsapp": "9336292288",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "University 4",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "01/06/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
