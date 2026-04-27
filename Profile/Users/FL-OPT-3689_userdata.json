@@ -1,0 +1,22 @@
+{
+  "name": "Faizan Neyaz",
+  "email": "faizanneyaz121@gmail.com",
+  "phone": "9955207757",
+  "whatsapp": "9955207757",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Optometrist",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "05/09/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
