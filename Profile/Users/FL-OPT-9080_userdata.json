@@ -1,0 +1,19 @@
+{
+  "name": "Roshani Nishad",
+  "email": "roshanikashyap690@gmail.com",
+  "phone": "9336110989",
+  "whatsapp": "9336110989",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "College .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "05/04/2001",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
