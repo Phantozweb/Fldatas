@@ -1,0 +1,19 @@
+{
+  "name": "Anu Shakwa",
+  "email": "shakwaann@gmail.com",
+  "phone": "8099310595",
+  "whatsapp": "8099310595",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "B Optometry",
+  "institution": "university . B",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "06/10/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
