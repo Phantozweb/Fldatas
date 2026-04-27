@@ -1,0 +1,21 @@
+{
+  "name": "Ankita Sudhir Jadhav",
+  "email": "optomankita@gmail.com",
+  "phone": "8433991649",
+  "whatsapp": "8433991649",
+  "role": "Academic",
+  "country": "IN",
+  "qualification": "",
+  "institution": "Institute of",
+  "profession": "Optometrist (Academic)",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "08/09/2002",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
