@@ -1,0 +1,23 @@
+{
+  "name": "SANTOSH KUMAR",
+  "email": "santoshopt@gmail.com",
+  "phone": "930884263693088",
+  "whatsapp": "9308842636",
+  "dob": "02/02/1983",
+  "gender": "Male",
+  "country": "India",
+  "institution": "",
+  "qualification": "Degree",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "membership_id": "FL-OPT-9267",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "19/06/2025 14:07:21",
+  "source": "optobharat_old_members"
+}
