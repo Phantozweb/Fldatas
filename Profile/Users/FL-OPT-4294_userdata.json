@@ -1,0 +1,19 @@
+{
+  "name": "Abhisek buragohain",
+  "email": "buragohainavi@gmail.com",
+  "phone": "8133934004",
+  "whatsapp": "8133934004",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university .",
+  "profession": "Student",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "05/12/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
