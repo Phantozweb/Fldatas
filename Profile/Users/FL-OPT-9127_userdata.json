@@ -1,0 +1,19 @@
+{
+  "name": "RevathiSaravanan",
+  "email": "revathisaravanan0821@gmail.com",
+  "phone": "8610848578",
+  "whatsapp": "8610848578",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "B.Optom",
+  "institution": "institute of ophthalmology and research 4th",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "21/10/2002",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
