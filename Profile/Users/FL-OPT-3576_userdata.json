@@ -1,0 +1,19 @@
+{
+  "name": "K.Meghana",
+  "email": "kandikondameghana@gmail.com",
+  "phone": "7981927890",
+  "whatsapp": "7981927890",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bsc",
+  "institution": "University 4th",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "22/08/2003",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
