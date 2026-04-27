@@ -1,0 +1,19 @@
+{
+  "name": "Muskan pal",
+  "email": "muskanpal509@gmail.com",
+  "phone": "8393074258",
+  "whatsapp": "8393074258",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "09/11/2003",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
