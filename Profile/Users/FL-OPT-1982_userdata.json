@@ -1,0 +1,22 @@
+{
+  "name": "Rohan P",
+  "email": "rohanpremadas@gmail.com",
+  "phone": "9778761230",
+  "whatsapp": "9778761230",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "05/09/1998",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
