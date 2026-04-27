@@ -1,0 +1,19 @@
+{
+  "name": "Kevin koech",
+  "email": "kevynk96@gmail.com",
+  "phone": "728432076",
+  "whatsapp": "728432076",
+  "role": "Student",
+  "country": "KE",
+  "qualification": "Diploma",
+  "institution": "College",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "13/04/1996",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
