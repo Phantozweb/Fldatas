@@ -1,0 +1,20 @@
+{
+  "name": "Santiya William",
+  "email": "santiyawilliam@gmail.com",
+  "phone": "7397099789",
+  "whatsapp": "7397099789",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Binocular Vision"
+  ],
+  "dob": "29/07/2002",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
