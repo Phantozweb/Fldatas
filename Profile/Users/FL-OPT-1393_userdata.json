@@ -1,0 +1,24 @@
+{
+  "name": "Tyrell Nangombe",
+  "email": "tyrellnangombe@gmail.com",
+  "phone": "9779491259",
+  "whatsapp": "9779491259",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "University . .",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Low Vision",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "27/02/2002",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
