@@ -1,0 +1,19 @@
+{
+  "name": "Afreen naqvi",
+  "email": "naqviafreen025@gmail.com",
+  "phone": "9024675331",
+  "whatsapp": "9024675331",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "college jaipur .",
+  "profession": "Student",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "01/07/1999",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
