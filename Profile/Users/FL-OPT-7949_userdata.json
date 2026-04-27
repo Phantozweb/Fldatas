@@ -1,0 +1,22 @@
+{
+  "name": "Abhishek Kumar",
+  "email": "mrabhishek206244@gmail.com",
+  "phone": "7060852975",
+  "whatsapp": "7060852975",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university of medical sciences safai Etawah",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "20/12/2005",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
