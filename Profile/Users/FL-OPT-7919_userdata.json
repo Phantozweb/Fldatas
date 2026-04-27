@@ -1,0 +1,19 @@
+{
+  "name": "Alishba Raouf",
+  "email": "alishba10357@gmail.com",
+  "phone": "8630728078",
+  "whatsapp": "8630728078",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "University",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "12/09/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
