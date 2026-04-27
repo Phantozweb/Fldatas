@@ -1,0 +1,20 @@
+{
+  "name": "Mohana Priya",
+  "email": "priyaopto24@gmail.com",
+  "phone": "7448397827",
+  "whatsapp": "7448397827",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "institute of health sciences and management 0.3",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Low Vision"
+  ],
+  "dob": "24/03/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
