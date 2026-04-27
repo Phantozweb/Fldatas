@@ -1,0 +1,19 @@
+{
+  "name": "Sareesh khan",
+  "email": "khnsehr801@gmail.com",
+  "phone": "9520754656",
+  "whatsapp": "9520754656",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "university 1st",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "25/11/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
