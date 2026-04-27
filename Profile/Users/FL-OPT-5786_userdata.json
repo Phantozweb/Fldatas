@@ -1,0 +1,20 @@
+{
+  "name": "Vaishali singh",
+  "email": "vaishalithakur2402@gmail.com",
+  "phone": "7982642014",
+  "whatsapp": "7982642014",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "24/08/2000",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
