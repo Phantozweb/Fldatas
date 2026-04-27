@@ -1,0 +1,21 @@
+{
+  "name": "Bibartan Adhikary",
+  "email": "miniwarden99@gmail.com",
+  "phone": "7019332531",
+  "whatsapp": "7019332531",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bachelor of Optometry",
+  "institution": "University I am",
+  "profession": "Optometrist",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "31/10/2002",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
