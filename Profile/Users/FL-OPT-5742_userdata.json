@@ -1,0 +1,19 @@
+{
+  "name": "SHEEBA",
+  "email": "sheebakhan9011@gmail.com",
+  "phone": "9012098812",
+  "whatsapp": "9012098812",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university 3",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "12/01/2001",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
