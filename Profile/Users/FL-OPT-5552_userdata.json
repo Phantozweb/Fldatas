@@ -1,0 +1,21 @@
+{
+  "name": "Vasu Rajvanshi",
+  "email": "optomvasu786@gmail.com",
+  "phone": "7017110948",
+  "whatsapp": "7017110948",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bachelor",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision"
+  ],
+  "dob": "24/10/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
