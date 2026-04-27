@@ -1,0 +1,23 @@
+{
+  "name": "Sonu Kumar",
+  "email": "ug42222066@dseu.ac.in",
+  "phone": "880085902288008",
+  "whatsapp": "8800859022",
+  "dob": "21/07/2002",
+  "gender": "Male",
+  "country": "India",
+  "institution": "university",
+  "qualification": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-2023",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "27/05/2025 20:51:45",
+  "source": "optobharat_old_members"
+}
