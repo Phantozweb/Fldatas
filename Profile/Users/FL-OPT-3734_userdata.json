@@ -1,0 +1,21 @@
+{
+  "name": "Manju George Tiwari",
+  "email": "manjuneerajopto@gmail.c0o0m973",
+  "phone": "3912412500",
+  "whatsapp": "3912412500",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bachelor of Optometry",
+  "institution": "Hospital Angamaly .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "19/08/1981",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
