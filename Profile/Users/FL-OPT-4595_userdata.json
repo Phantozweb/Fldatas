@@ -1,19 +1,23 @@
 {
-  "name": "Maryam Jabbar",
-  "email": "maryamjabbar.OPT@tuf.ed",
-  "phone": "3326537139",
-  "whatsapp": "3326537139",
-  "role": "Academic",
-  "country": "PK",
-  "qualification": "MPhil",
-  "institution": "University of Faisalabad Pakistan . MPhil",
-  "profession": "Optometrist (Academic)",
+  "name": "RAJIUL HOQUE",
+  "email": "rajiulhoqueneet@gmail.com",
+  "phone": "9735361660",
+  "whatsapp": "9735361660",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "university 2nd",
+  "profession": "Optometrist",
   "membership_type": "Student Member",
   "areas_of_interest": [
-    "Myopia Control"
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
   ],
-  "dob": "14/04/2000",
-  "gender": "Female",
+  "dob": "16/12/1999",
+  "gender": "Male",
   "verified": true,
   "status": "accepted"
 }
