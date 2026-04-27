@@ -1,0 +1,19 @@
+{
+  "name": "Trivendra",
+  "email": "trivendra4523@gmail.com",
+  "phone": "7060454523",
+  "whatsapp": "7060454523",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "12/07/1998",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
