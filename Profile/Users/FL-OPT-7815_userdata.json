@@ -1,0 +1,19 @@
+{
+  "name": "Hitkarsh pal",
+  "email": "palhitkarsh@gmail.com",
+  "phone": "9758649680",
+  "whatsapp": "9758649680",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "22/12/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
