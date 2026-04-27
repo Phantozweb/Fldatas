@@ -1,0 +1,19 @@
+{
+  "name": "M.ARIGANESAN",
+  "email": "ariganesanask15102001@gmail.com",
+  "phone": "7708829667",
+  "whatsapp": "7708829667",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bsc optometry",
+  "institution": "university, pondicherry",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "15/10/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
