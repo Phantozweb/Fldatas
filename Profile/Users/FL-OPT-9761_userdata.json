@@ -1,0 +1,20 @@
+{
+  "name": "Subham Dey",
+  "email": "subhamdeyp1226@gmail.com",
+  "phone": "6000738268",
+  "whatsapp": "6000738268",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "University 4",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "30/08/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
