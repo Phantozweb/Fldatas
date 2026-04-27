@@ -1,0 +1,19 @@
+{
+  "name": "Vidya Lakshmi",
+  "email": "pillailakshmividya@gmail.com",
+  "phone": "7034659150",
+  "whatsapp": "7034659150",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "18/06/1991",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
