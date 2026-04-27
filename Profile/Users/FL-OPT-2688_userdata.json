@@ -1,0 +1,21 @@
+{
+  "name": "Ansh Baria",
+  "email": "ansh34baria@gmail.com",
+  "phone": "8130100126",
+  "whatsapp": "8130100126",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "University 3rd",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision"
+  ],
+  "dob": "03/04/2004",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
