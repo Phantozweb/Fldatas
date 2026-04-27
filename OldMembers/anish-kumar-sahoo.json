@@ -1,0 +1,23 @@
+{
+  "name": "Anish Kumar sahoo",
+  "email": "anishkumarsahoo2002@gmail.com",
+  "phone": "6370382776",
+  "whatsapp": "20202024",
+  "dob": "30/03/2003",
+  "gender": "Male",
+  "country": "India",
+  "institution": "university of technology and management2 020-",
+  "qualification": "Degree",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "membership_id": "FL-OPT-7576",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "13/04/2025 22:54:31",
+  "source": "optobharat_old_members"
+}
