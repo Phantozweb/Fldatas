@@ -1,0 +1,22 @@
+{
+  "name": "Sekh Joynal Abedin",
+  "email": "joynalabedin1759@gmail.com",
+  "phone": "7584003564",
+  "whatsapp": "7584003564",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bachelor of Optometry",
+  "institution": "University .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "26/03/2000",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
