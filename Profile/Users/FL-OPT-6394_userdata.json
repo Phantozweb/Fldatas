@@ -1,0 +1,23 @@
+{
+  "name": "Sonu Maurya",
+  "email": "sm8572177@gmail.com",
+  "phone": "6388798713",
+  "whatsapp": "6388798713",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "College",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "13/05/2006",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
