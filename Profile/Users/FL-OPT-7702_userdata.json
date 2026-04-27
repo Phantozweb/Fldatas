@@ -1,0 +1,20 @@
+{
+  "name": "Jeyshree Balasubramanian",
+  "email": "jeyshree209@gmail.com",
+  "phone": "9944507480",
+  "whatsapp": "9944507480",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "B.Optom",
+  "institution": "",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "02/09/1998",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
