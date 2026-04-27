@@ -1,0 +1,22 @@
+{
+  "name": "Ayush Sharma",
+  "email": "ayush9691as@gmail.com",
+  "phone": "7650950575",
+  "whatsapp": "7650950575",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bachelor",
+  "institution": "University 4th",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "01/10/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
