@@ -1,0 +1,22 @@
+{
+  "name": "MOHAMED FAZIL E",
+  "email": "amanfazil17@gmail.com",
+  "phone": "9487314364",
+  "whatsapp": "+91948731436494",
+  "dob": "23/11/1998",
+  "gender": "Male",
+  "country": "India",
+  "institution": "university",
+  "qualification": "Degree",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "membership_id": "FL-OPT-9943",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "14/04/2025 10:35:46",
+  "source": "optobharat_old_members"
+}
