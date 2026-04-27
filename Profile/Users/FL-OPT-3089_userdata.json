@@ -1,0 +1,19 @@
+{
+  "name": "Subhasis Saha",
+  "email": "subhasis2000saha@gmail.com",
+  "phone": "7029376567",
+  "whatsapp": "7029376567",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "Hospital Kolkata",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "02/07/2000",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
