@@ -1,0 +1,21 @@
+{
+  "name": "Ritik kumar",
+  "email": "ritikkumarsarsu@gmail.com",
+  "phone": "8970783710",
+  "whatsapp": "897078371089707",
+  "dob": "12/04/2003",
+  "gender": "Male",
+  "country": "India",
+  "institution": "University",
+  "qualification": "Degree",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-7054",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "registered_at": "14/04/2025 00:27:58",
+  "source": "optobharat_old_members"
+}
