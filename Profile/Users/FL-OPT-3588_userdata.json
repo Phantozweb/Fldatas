@@ -1,0 +1,21 @@
+{
+  "name": "Tusha",
+  "email": "pathaktusha6@gmail.com",
+  "phone": "7827859168",
+  "whatsapp": "7827859168",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university 4",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "dob": "20/11/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
