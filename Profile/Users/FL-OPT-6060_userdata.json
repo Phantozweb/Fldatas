@@ -1,0 +1,22 @@
+{
+  "name": "Avinash Ganeshrao Gonte",
+  "email": "01optometrist@gmail.com",
+  "phone": "7208140251",
+  "whatsapp": "7208140251",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bsc",
+  "institution": "UNIVERSITY",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "11/02/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
