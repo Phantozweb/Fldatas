@@ -1,0 +1,20 @@
+{
+  "name": "Sumaiya thoufiq",
+  "email": "thahseen29@gmail.com",
+  "phone": "0097155643",
+  "whatsapp": "0097155643",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university Chandigarh .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "16/03/1982",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
