@@ -1,0 +1,20 @@
+{
+  "name": "Agam Pratap",
+  "email": "yadavagam090@gmail.com",
+  "phone": "9026843106",
+  "whatsapp": "9026843106",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university of medical sciences Saifai E2tanwd ayhe ar",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Low Vision"
+  ],
+  "dob": "02/03/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
