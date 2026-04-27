@@ -1,0 +1,19 @@
+{
+  "name": "Khalek uddin",
+  "email": "Khaleku20@gmail.com",
+  "phone": "7636899608",
+  "whatsapp": "7636899608",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bachelor of Optometry",
+  "institution": "University",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "03/12/2005",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
