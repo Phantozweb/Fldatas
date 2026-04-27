@@ -1,0 +1,19 @@
+{
+  "name": "Mohd Junaid",
+  "email": "mojunaidqurashi@gmail.com",
+  "phone": "8859722149",
+  "whatsapp": "8859722149",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university meerut uttar P2rnadd eyseha r",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "15/05/2004",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
