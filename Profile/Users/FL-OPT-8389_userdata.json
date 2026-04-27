@@ -1,0 +1,23 @@
+{
+  "name": "M. Fazila Fathima",
+  "email": "m.fazilafathima06@gmail.com",
+  "phone": "9003482166",
+  "whatsapp": "9003482166",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "Institute Of Health sciences And Management1 st",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "14/07/2006",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
