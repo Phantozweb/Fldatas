@@ -1,0 +1,20 @@
+{
+  "name": "Divya Kumari",
+  "email": "dk9661603@gmail.com",
+  "phone": "7542862915",
+  "whatsapp": "754286291575428",
+  "dob": "29/09/2001",
+  "gender": "Female",
+  "country": "India",
+  "institution": "university",
+  "qualification": "Degree",
+  "profession": "Optometrist",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-9713",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
+  "registered_at": "14/04/2025 00:06:39",
+  "source": "optobharat_old_members"
+}
