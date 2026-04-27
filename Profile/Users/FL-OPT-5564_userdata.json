@@ -1,0 +1,21 @@
+{
+  "name": "Akshaya",
+  "email": "aksayajaya20051810@gmail.com",
+  "phone": "9080859297",
+  "whatsapp": "9080859297",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bsc",
+  "institution": "Institute OF HEALTH SCIENCES AND MANAG2EnMdE yNeTa r",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "18/10/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
