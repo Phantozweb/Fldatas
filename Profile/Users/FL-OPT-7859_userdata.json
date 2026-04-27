@@ -1,0 +1,22 @@
+{
+  "name": "Naved Ali",
+  "email": "navedali8084051778@gmail.com",
+  "phone": "9661188505",
+  "whatsapp": "9661188505",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "14/05/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
