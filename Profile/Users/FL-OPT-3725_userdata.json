@@ -1,0 +1,21 @@
+{
+  "name": "Ayaz Raza",
+  "email": "ayazraza2142006@gmail.com",
+  "phone": "7061837465",
+  "whatsapp": "7061837465",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "dob": "21/04/2006",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
