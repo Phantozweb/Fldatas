@@ -1,0 +1,21 @@
+{
+  "name": "Rinku Yadav",
+  "email": "rinkuyadav8564045@gmail.com",
+  "phone": "8564045663",
+  "whatsapp": "8564045663",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bsc optometry",
+  "institution": "university B opt",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision"
+  ],
+  "dob": "05/05/1996",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
