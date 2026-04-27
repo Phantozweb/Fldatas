@@ -1,0 +1,21 @@
+{
+  "name": "P.JEBISHA NANCY",
+  "email": "jebishanancy219@gmail.com",
+  "phone": "9976714927",
+  "whatsapp": "9976714927",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bsc",
+  "institution": "institute of health sciences and management, 4Ctohimbatore",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "22/11/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
