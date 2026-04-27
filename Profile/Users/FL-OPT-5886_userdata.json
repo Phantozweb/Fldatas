@@ -1,0 +1,19 @@
+{
+  "name": "Shruti MISHRA",
+  "email": "shrutisatsangi.2001@gmail.com",
+  "phone": "7310556031",
+  "whatsapp": "7310556031",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Diploma",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "01/01/2001",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
