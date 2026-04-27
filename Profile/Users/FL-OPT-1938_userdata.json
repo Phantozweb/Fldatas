@@ -1,0 +1,21 @@
+{
+  "name": "Devasri",
+  "email": "devasrivenkatasan@gmail.com",
+  "phone": "9600280520",
+  "whatsapp": "9600280520",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Optometrist",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "19/09/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
