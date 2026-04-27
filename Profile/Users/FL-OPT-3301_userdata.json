@@ -1,0 +1,20 @@
+{
+  "name": "Pawan kant bhaskar",
+  "email": "pawankant7017@gmail.com",
+  "phone": "9084469084",
+  "whatsapp": "9084469084",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bachelor",
+  "institution": "university of paramedical sciences, saifai, etawah",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry"
+  ],
+  "dob": "14/02/2006",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
