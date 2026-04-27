@@ -1,0 +1,19 @@
+{
+  "name": "Maryam Jabbar",
+  "email": "maryamjabbar.OPT@tuf.ed",
+  "phone": "3326537139",
+  "whatsapp": "3326537139",
+  "role": "Academic",
+  "country": "PK",
+  "qualification": "MPhil",
+  "institution": "University of Faisalabad Pakistan . MPhil",
+  "profession": "Optometrist (Academic)",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "14/04/2000",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
