@@ -1,23 +1,9 @@
 {
   "name": "Bablu Kumar",
   "email": "bk5659975@gmail.com",
-  "phone": "8404930871",
-  "whatsapp": "2024202612",
-  "dob": "08/08/2007",
-  "gender": "Male",
-  "country": "India",
-  "institution": "INSTITUTE",
-  "qualification": "",
-  "profession": "Optometrist",
-  "membership_type": "Student Member",
   "membership_id": "FL-OPT-1058",
-  "areas_of_interest": [
-    "Myopia Control",
-    "Contact Lens",
-    "Pediatric Optometry",
-    "Sports Vision",
-    "Vision Therapy"
-  ],
+  "membership_type": "Student Member",
+  "profession": "Optometrist",
   "registered_at": "18/03/2025 18:24:14",
   "source": "optobharat_old_members"
 }
