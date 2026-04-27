@@ -1,0 +1,19 @@
+{
+  "name": "S.Arockia Neha",
+  "email": "nehasr2005@gmail.com",
+  "phone": "9585458437",
+  "whatsapp": "9585458437",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "Institute of health sciences and management Internship",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Binocular Vision"
+  ],
+  "dob": "19/02/2025",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
