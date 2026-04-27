@@ -1,0 +1,22 @@
+{
+  "name": "J.subashini",
+  "email": "gurusubashinijk@gmail.com",
+  "phone": "8072403710",
+  "whatsapp": "8072403710",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "institute of health sciences and management, 3Arlda gyaepapr a university",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "21/10/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
