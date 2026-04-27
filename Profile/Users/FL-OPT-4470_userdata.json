@@ -1,23 +1,20 @@
 {
-  "name": "Deepak Kumar",
-  "email": "dk6201420747@gmail.com",
-  "phone": "6201420747",
-  "whatsapp": "6201420747",
-  "role": "Optometrist",
+  "name": "A.Mubassara",
+  "email": "mubasabdulsukkur@gmail.com",
+  "phone": "8248466204",
+  "whatsapp": "8248466204",
+  "role": "Student",
   "country": "IN",
-  "qualification": "",
-  "institution": "University Internship",
-  "profession": "Optometrist (Practitioner)",
-  "membership_type": "Professional Member",
+  "qualification": "Degree",
+  "institution": "Institute of Health Sciences and Management 1st",
+  "profession": "Student",
+  "membership_type": "Student Member",
   "areas_of_interest": [
     "Myopia Control",
-    "Contact Lens",
-    "Pediatric Optometry",
-    "Sports Vision",
-    "Vision Therapy"
+    "Contact Lens"
   ],
-  "dob": "17/02/2019",
-  "gender": "Male",
+  "dob": "24/08/2006",
+  "gender": "Female",
   "verified": true,
   "status": "accepted"
 }
