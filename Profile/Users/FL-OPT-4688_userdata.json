@@ -1,0 +1,19 @@
+{
+  "name": "Ambrish yadav",
+  "email": "ambrishyadav042@gmail.com",
+  "phone": "6386373457",
+  "whatsapp": "6386373457",
+  "role": "Academic",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university .",
+  "profession": "Optometrist (Academic)",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "15/03/2002",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
