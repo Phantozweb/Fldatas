@@ -1,0 +1,19 @@
+{
+  "name": "Aditya laxmikant shewale",
+  "email": "adityashewale19@gmail.com",
+  "phone": "7387539038",
+  "whatsapp": "7387539038",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "",
+  "institution": "college aurangabad .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "05/04/1999",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
