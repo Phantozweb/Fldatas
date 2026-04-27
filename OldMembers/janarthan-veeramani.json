@@ -1,22 +1,5 @@
 {
   "name": "Janarthan Veeramani",
   "email": "iamsirenjeev@gmail.com",
-  "phone": "+917395864829",
-  "whatsapp": "+917395864829",
-  "dob": "11/07/2005",
-  "gender": "Male",
-  "country": "India",
-  "institution": "institute of health Sciences And Management",
-  "qualification": "Bsc",
-  "profession": "Student",
-  "membership_type": "Student Member",
-  "membership_id": "FL-OPT-8040",
-  "areas_of_interest": [
-    "Myopia Control",
-    "Contact Lens",
-    "Pediatric Optometry",
-    "Binocular Vision"
-  ],
-  "registered_at": "17/03/2025 20:27:42",
-  "source": "optobharat_old_members"
+  "membership_id": "FL-OPT-8040"
 }
