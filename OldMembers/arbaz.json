@@ -1,9 +1,22 @@
 {
   "name": "Arbaz",
   "email": "ak5022533@gmail.com",
-  "membership_id": "FL-OPT-8527",
-  "membership_type": "Student Member",
+  "phone": "8077243131",
+  "whatsapp": "807724313180772",
+  "dob": "24/01/2001",
+  "gender": "Male",
+  "country": "India",
+  "institution": "",
+  "qualification": "Master",
   "profession": "Optometrist (Academic)",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-8527",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
   "registered_at": "18/03/2025 09:24:26",
   "source": "optobharat_old_members"
 }
