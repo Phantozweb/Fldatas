@@ -1,0 +1,21 @@
+{
+  "name": "Tusha",
+  "email": "pathaktusha6@gmail.com",
+  "phone": "782785916878278",
+  "whatsapp": "7827859168",
+  "dob": "20/11/2005",
+  "gender": "Female",
+  "country": "India",
+  "institution": "university 4",
+  "qualification": "Degree",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-3588",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "registered_at": "02/05/2025 09:08:33",
+  "source": "optobharat_old_members"
+}
