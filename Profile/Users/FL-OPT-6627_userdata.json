@@ -1,22 +1,21 @@
 {
-  "name": "Mobasshira",
-  "email": "mobasshirachaudhary123@gmail.com",
-  "phone": "9953853689",
-  "whatsapp": "9953853689",
+  "name": "Ramesh jha",
+  "email": "balajeelakho@gmail.com",
+  "phone": "9349142567",
+  "whatsapp": "9349142567",
   "role": "Student",
   "country": "IN",
-  "qualification": "Bachelor",
-  "institution": "University 2nd",
+  "qualification": "Degree",
+  "institution": "",
   "profession": "Student",
-  "membership_type": "Student Member",
+  "membership_type": "Professional Member",
   "areas_of_interest": [
     "Myopia Control",
-    "Contact Lens",
-    "Pediatric Optometry",
-    "Vision Therapy"
+    "Low Vision",
+    "Sports Vision"
   ],
-  "dob": "06/12/2005",
-  "gender": "Female",
+  "dob": "22/03/2000",
+  "gender": "Male",
   "verified": true,
   "status": "accepted"
 }
