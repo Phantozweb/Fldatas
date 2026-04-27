@@ -1,0 +1,22 @@
+{
+  "name": "Aneesh Prasada Pandelu",
+  "email": "pandeluaneesh@gmail.com",
+  "phone": "7676405775",
+  "whatsapp": "7676405775",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "",
+  "institution": "",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "11/06/2002",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
