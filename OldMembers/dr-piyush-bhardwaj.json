@@ -1,0 +1,23 @@
+{
+  "name": "Dr Piyush Bhardwaj",
+  "email": "c2piyushsharma@gmail.com",
+  "phone": "902492251090249",
+  "whatsapp": "9024922510",
+  "dob": "12/01/1995",
+  "gender": "Male",
+  "country": "India",
+  "institution": "College, Jaipur .",
+  "qualification": "Bachelor",
+  "profession": "Student",
+  "membership_type": "Professional Member",
+  "membership_id": "FL-OPT-8859",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "16/04/2025 14:59:30",
+  "source": "optobharat_old_members"
+}
