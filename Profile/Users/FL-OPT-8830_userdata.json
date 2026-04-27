@@ -1,0 +1,23 @@
+{
+  "name": "Rimpi Kalita",
+  "email": "kalitarimpi486@gmail.com",
+  "phone": "6003182042",
+  "whatsapp": "6003182042",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bachelor of Optometry",
+  "institution": "University, Jorhat",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "22/02/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
