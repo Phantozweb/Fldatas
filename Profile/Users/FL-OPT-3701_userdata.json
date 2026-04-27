@@ -1,0 +1,23 @@
+{
+  "name": "JAFEER AHMAD",
+  "email": "jafeer1296@gmail.com",
+  "phone": "7983979829",
+  "whatsapp": "7983979829",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "UNIVERSITY OF MEDICAL SCIENCE 2 024 -",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "05/07/2007",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
