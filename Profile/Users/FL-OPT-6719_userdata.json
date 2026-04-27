@@ -1,0 +1,22 @@
+{
+  "name": "Jatin ubha",
+  "email": "jatinubha2010@gmail.com",
+  "phone": "9785889923",
+  "whatsapp": "9785889923",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Master",
+  "institution": "University",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "10/08/2000",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
