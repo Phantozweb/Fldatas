@@ -1,0 +1,20 @@
+{
+  "name": "Mufeeda",
+  "email": "mufeedarinshad@gmail.com",
+  "phone": "8590546229",
+  "whatsapp": "8590546229",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "04/04/2003",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
