@@ -1,0 +1,20 @@
+{
+  "name": "Vidhya.N",
+  "email": "vidhyamownigan@gmail.com",
+  "phone": "9841898860",
+  "whatsapp": "8754481568",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "",
+  "institution": "institute of ophthalmology and research",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "15/09/1995",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
