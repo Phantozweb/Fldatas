@@ -1,0 +1,23 @@
+{
+  "name": "Amar Bahadur",
+  "email": "amarprajapati914@gmail.com",
+  "phone": "9838435197",
+  "whatsapp": "983843519798384",
+  "dob": "04/06/2003",
+  "gender": "Male",
+  "country": "India",
+  "institution": "University",
+  "qualification": "Bachelor",
+  "profession": "Optometrist (Academic)",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-1860",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "14/04/2025 08:29:59",
+  "source": "optobharat_old_members"
+}
