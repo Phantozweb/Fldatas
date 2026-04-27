@@ -1,0 +1,20 @@
+{
+  "name": "Madhu tiwari",
+  "email": "mt6288902@gmail.com",
+  "phone": "9919202165",
+  "whatsapp": "9919202165",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "university of medical science 1st",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
+  "dob": "16/04/2006",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
