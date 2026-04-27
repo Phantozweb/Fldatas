@@ -1,0 +1,19 @@
+{
+  "name": "C.S.Dharshini",
+  "email": "dharshinics2707@gmail.com",
+  "phone": "8610630135",
+  "whatsapp": "8610630135",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "Institute of Health Sciences And Management 2nd",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "27/07/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
