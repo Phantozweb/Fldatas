@@ -1,23 +1,9 @@
 {
   "name": "M.Mega Dharshini",
   "email": "megadharshini999@gmail.com",
-  "phone": "934227802393422",
-  "whatsapp": "9342278023",
-  "dob": "28/03/2005",
-  "gender": "Female",
-  "country": "India",
-  "institution": "institute of health sciences and management Second",
-  "qualification": "B.Sc Optometry",
-  "profession": "Student",
-  "membership_type": "Student Member",
   "membership_id": "FL-OPT-4028",
-  "areas_of_interest": [
-    "Myopia Control",
-    "Contact Lens",
-    "Pediatric Optometry",
-    "Sports Vision",
-    "Vision Therapy"
-  ],
+  "membership_type": "Student Member",
+  "profession": "Student",
   "registered_at": "11/04/2025 21:48:14",
   "source": "optobharat_old_members"
 }
