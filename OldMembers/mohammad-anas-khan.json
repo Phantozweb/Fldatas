@@ -1,0 +1,23 @@
+{
+  "name": "Mohammad Anas khan",
+  "email": "anask9169@gmail.com",
+  "phone": "8501085751",
+  "whatsapp": "850108575185010",
+  "dob": "31/01/2000",
+  "gender": "Male",
+  "country": "India",
+  "institution": "institute of medical technology",
+  "qualification": "Diploma",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-8853",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "12/04/2025 11:26:33",
+  "source": "optobharat_old_members"
+}
