@@ -1,0 +1,19 @@
+{
+  "name": "Nisha",
+  "email": "nisharajput730209@gmail.com",
+  "phone": "7302099271",
+  "whatsapp": "7302099271",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "01/01/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
