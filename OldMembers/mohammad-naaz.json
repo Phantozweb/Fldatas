@@ -1,0 +1,23 @@
+{
+  "name": "Mohammad Naaz",
+  "email": "mohammadnaaz1996@gmail.com",
+  "phone": "8920465361",
+  "whatsapp": "8920465361",
+  "dob": "20/12/1998",
+  "gender": "Male",
+  "country": "India",
+  "institution": "University .",
+  "qualification": "Bachelor of Optometry",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "membership_id": "FL-OPT-7499",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "registered_at": "04/04/2025 11:56:23",
+  "source": "optobharat_old_members"
+}
