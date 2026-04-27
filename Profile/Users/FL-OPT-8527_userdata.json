@@ -1,0 +1,22 @@
+{
+  "name": "Arbaz",
+  "email": "ak5022533@gmail.com",
+  "phone": "8077243131",
+  "whatsapp": "8077243131",
+  "role": "Academic",
+  "country": "IN",
+  "qualification": "Master",
+  "institution": "",
+  "profession": "Optometrist (Academic)",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "24/01/2001",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
