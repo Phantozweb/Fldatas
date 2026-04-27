@@ -1,0 +1,21 @@
+{
+  "name": "Shadiya Shirin T.C",
+  "email": "shadiyashirin261001@gmail.com",
+  "phone": "7591994434",
+  "whatsapp": "7591994434",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "College of",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "26/10/2001",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
