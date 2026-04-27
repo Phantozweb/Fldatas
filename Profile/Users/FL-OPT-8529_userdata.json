@@ -1,0 +1,21 @@
+{
+  "name": "Sadik Zaman",
+  "email": "sadikzaman306@gmail.com",
+  "phone": "8011082503",
+  "whatsapp": "8011082503",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "university 3rd",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "dob": "29/03/2004",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
