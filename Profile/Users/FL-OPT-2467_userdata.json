@@ -1,0 +1,19 @@
+{
+  "name": "Khushi",
+  "email": "khushirani02260@gmail.com",
+  "phone": "9548302734",
+  "whatsapp": "9548302725",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "center 3rd",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "22/06/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
