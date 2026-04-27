@@ -1,0 +1,19 @@
+{
+  "name": "Faizanullah Siddiqui",
+  "email": "faizansi2085@gmail.com",
+  "phone": "8429707805",
+  "whatsapp": "8429707805",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "UNIVERSITY OF MEDICAL SCIENCE2S02 4 onwards",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "10/07/2002",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
