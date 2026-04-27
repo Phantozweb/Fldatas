@@ -1,0 +1,19 @@
+{
+  "name": "Shahijul Sheikh",
+  "email": "shahijulsheikh9@gmail.com",
+  "phone": "7002030262",
+  "whatsapp": "7002030262",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "",
+  "institution": "university 2nd",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "21/12/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
