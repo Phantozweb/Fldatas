@@ -1,9 +1,20 @@
 {
   "name": "Surekha M",
   "email": "surekhamurali2801@gmail.com",
-  "membership_id": "FL-OPT-9915",
-  "membership_type": "Student Member",
+  "phone": "9597429992",
+  "whatsapp": "959742999295974",
+  "dob": "28/01/2004",
+  "gender": "Female",
+  "country": "India",
+  "institution": "Institute for home science and Highe3r redd yuecaartion for women",
+  "qualification": "Bachelor of Optometry",
   "profession": "Student",
+  "membership_type": "Student Member",
+  "membership_id": "FL-OPT-9915",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
   "registered_at": "18/03/2025 09:13:45",
   "source": "optobharat_old_members"
 }
