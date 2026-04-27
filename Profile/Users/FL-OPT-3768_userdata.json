@@ -1,0 +1,22 @@
+{
+  "name": "ASIF SHAIK",
+  "email": "asifshaik6464@gmail.com",
+  "phone": "9502328542",
+  "whatsapp": "9502328542",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university 4th",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Sports Vision",
+    "Binocular Vision"
+  ],
+  "dob": "30/01/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
