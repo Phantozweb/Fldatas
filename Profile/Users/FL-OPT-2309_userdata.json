@@ -1,0 +1,19 @@
+{
+  "name": "Bushra sajjad",
+  "email": "bushrasajjad1404@gmail.com",
+  "phone": "8299588617",
+  "whatsapp": "8299588617",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "university, lucknow .",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "14/04/2002",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
