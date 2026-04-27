@@ -1,0 +1,22 @@
+{
+  "name": "Jayapriya R",
+  "email": "priyarajan1004@gmail.com",
+  "phone": "9047826426",
+  "whatsapp": "9047826426",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Bsc",
+  "institution": "Institute of",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "10/05/2004",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
