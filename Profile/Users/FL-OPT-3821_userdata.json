@@ -1,0 +1,22 @@
+{
+  "name": "Zerin Mosharath Mollah",
+  "email": "zerinmmollah09@gmail.com",
+  "phone": "8134913488",
+  "whatsapp": "8134913488",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "",
+  "institution": "College of",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "09/01/2000",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
