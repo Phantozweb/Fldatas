@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLKBxWFy",
+  "fullName": "Ayush Sharma",
+  "email": "ayush9691as@gmail.com",
+  "phone": "7650950575",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 4th",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7650950575",
+  "name": "Ayush Sharma",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "01/10/2003",
+  "gender": "Male",
+  "institution": "University 4th"
+}

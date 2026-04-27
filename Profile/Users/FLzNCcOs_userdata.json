@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLzNCcOs",
+  "fullName": "Arvind Rav",
+  "email": "arvindrav289@gmail.com",
+  "phone": "8577978645",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "school",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8577978645",
+  "name": "Arvind Rav",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "18/08/2003",
+  "gender": "Male",
+  "institution": "school"
+}

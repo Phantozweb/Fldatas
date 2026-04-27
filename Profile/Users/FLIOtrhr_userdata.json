@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLIOtrhr",
+  "fullName": "Pushpanjali Prajapati",
+  "email": "sk2525prajapati@gmail.com",
+  "phone": "8604080292",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7985860790",
+  "name": "Pushpanjali Prajapati",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Binocular Vision"
+  ],
+  "dob": "11/11/2002",
+  "gender": "Female"
+}

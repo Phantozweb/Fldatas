@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLCck0B9",
+  "fullName": "Ansh Baria",
+  "email": "ansh34baria@gmail.com",
+  "phone": "8130100126",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8130100126",
+  "name": "Ansh Baria",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision"
+  ],
+  "dob": "03/04/2004",
+  "gender": "Male",
+  "institution": "University 3rd"
+}

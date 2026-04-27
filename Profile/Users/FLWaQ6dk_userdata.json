@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLWaQ6dk",
+  "fullName": "Divyanshu Sahu",
+  "email": "212006divyanshu@gmail.com",
+  "phone": "6306618501",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical science",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "6306618501",
+  "name": "Divyanshu Sahu",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "01/02/2006",
+  "gender": "Male",
+  "institution": "university of medical science"
+}

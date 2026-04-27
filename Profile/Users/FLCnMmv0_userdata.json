@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLCnMmv0",
+  "fullName": "G.Miruthula",
+  "email": "gmiruthulamiru@gmail.com",
+  "phone": "9600767884",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of health sciences and management1st",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9600767884",
+  "name": "G.Miruthula",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "20/06/2007",
+  "gender": "Female",
+  "institution": "institute of health sciences and management1st"
+}

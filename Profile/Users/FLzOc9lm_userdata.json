@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLzOc9lm",
+  "fullName": "Divyanshu Soni",
+  "email": "divinelightsoni@gmail.com",
+  "phone": "8107166129",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college 2nd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8107166129",
+  "name": "Divyanshu Soni",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "02/02/2006",
+  "gender": "Male",
+  "institution": "college 2nd"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLWpDYZR",
+  "fullName": "Sreesandhiya.G",
+  "email": "sreelakshana2006@gmail.com",
+  "phone": "9345737477",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of health science and management 2nd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9345737477",
+  "name": "Sreesandhiya.G",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "dob": "02/02/2006",
+  "gender": "Female",
+  "institution": "institute of health science and management 2nd"
+}

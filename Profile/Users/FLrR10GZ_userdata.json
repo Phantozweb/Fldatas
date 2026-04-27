@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLrR10GZ",
+  "fullName": "Vidya Lakshmi",
+  "email": "pillailakshmividya@gmail.com",
+  "phone": "7034659150",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7034659150",
+  "name": "Vidya Lakshmi",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "18/06/1991",
+  "gender": "Female"
+}

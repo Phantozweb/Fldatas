@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLaQRT9r",
+  "fullName": "Durga Gayathri. K",
+  "email": "durgagayathri342@gmail.com",
+  "phone": "7305370987",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college of science and",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7305370987",
+  "name": "Durga Gayathri. K",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "16/10/2005",
+  "gender": "Female",
+  "institution": "college of science and"
+}

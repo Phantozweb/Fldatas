@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLirXyEL",
+  "fullName": "Khalek Uddin",
+  "email": "khaleku20@gmail.com",
+  "phone": "7636899608",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7636899608",
+  "name": "Khalek Uddin",
+  "location": "",
+  "qualification": "Bachelor of Optometry",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "03/12/2005",
+  "gender": "Male",
+  "institution": "University"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLZyT3kS",
+  "fullName": "Karunya",
+  "email": "karunyaoptom@gmail.com",
+  "phone": "8778419549",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "school of management and science",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8778419549",
+  "name": "Karunya",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "16/02/2000",
+  "gender": "Female",
+  "institution": "school of management and science"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLyw9TQp",
+  "fullName": "Sandeep Kumar",
+  "email": "sandeepkumar659047@gmail.com",
+  "phone": "7037659047",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical science saidai etawah",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7037659047",
+  "name": "Sandeep Kumar",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "04/08/2005",
+  "gender": "Male",
+  "institution": "university of medical science saidai etawah"
+}

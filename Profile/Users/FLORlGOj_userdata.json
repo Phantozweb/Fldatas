@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLORlGOj",
+  "fullName": "Santanu Bera",
+  "email": "santanubera81015@gmail.com",
+  "phone": "8101508593",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of management",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8101508593",
+  "name": "Santanu Bera",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "18/04/1996",
+  "gender": "Male",
+  "institution": "institute of management"
+}

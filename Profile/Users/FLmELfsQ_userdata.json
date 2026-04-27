@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLmELfsQ",
+  "fullName": "Abhisek Buragohain",
+  "email": "buragohainavi@gmail.com",
+  "phone": "8133934004",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8133934004",
+  "name": "Abhisek Buragohain",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "05/12/2003",
+  "gender": "Male",
+  "institution": "university ."
+}

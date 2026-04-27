@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLoKWWhG",
+  "fullName": "Bibartan Adhikary",
+  "email": "miniwarden99@gmail.com",
+  "phone": "7019332531",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University I am",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7019332531",
+  "name": "Bibartan Adhikary",
+  "location": "",
+  "qualification": "Bachelor of Optometry",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "31/10/2002",
+  "gender": "Male",
+  "institution": "University I am"
+}

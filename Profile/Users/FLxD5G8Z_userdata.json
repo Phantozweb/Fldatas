@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLxD5G8Z",
+  "fullName": "Madhu Tiwari",
+  "email": "mt6288902@gmail.com",
+  "phone": "9919202165",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical science 1st",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9919202165",
+  "name": "Madhu Tiwari",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
+  "dob": "16/04/2006",
+  "gender": "Female",
+  "institution": "university of medical science 1st"
+}

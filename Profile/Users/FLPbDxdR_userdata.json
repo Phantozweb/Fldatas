@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLPbDxdR",
+  "fullName": "B. Thulasi",
+  "email": "thulasi150105@g.mail.com",
+  "phone": "9994467819",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "College",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9994467819",
+  "name": "B. Thulasi",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "15/01/2005",
+  "gender": "Female",
+  "institution": "College"
+}

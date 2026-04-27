@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLniX1Uy",
+  "fullName": "Yashwant Kumar",
+  "email": "yashcosmic5@gmail.com",
+  "phone": "8920117929",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8920117929",
+  "name": "Yashwant Kumar",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision"
+  ],
+  "dob": "24/02/1998",
+  "gender": "Male"
+}

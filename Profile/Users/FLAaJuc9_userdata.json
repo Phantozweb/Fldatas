@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLAaJuc9",
+  "fullName": "RIYAJ RATHOD",
+  "email": "riaz.rathod139@gmail.com",
+  "phone": "7623974530",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "UNIVERSITY . Batchelor",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7623974530",
+  "name": "RIYAJ RATHOD",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "09/01/1998",
+  "gender": "Male",
+  "institution": "UNIVERSITY . Batchelor"
+}

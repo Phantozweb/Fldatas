@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLsi4ojE",
+  "fullName": "Mufeeda",
+  "email": "mufeedarinshad@gmail.com",
+  "phone": "8590546229",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8590546229",
+  "name": "Mufeeda",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "04/04/2003",
+  "gender": "Female"
+}

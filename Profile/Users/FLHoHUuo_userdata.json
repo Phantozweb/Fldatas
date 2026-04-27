@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLHoHUuo",
+  "fullName": "Nisha",
+  "email": "nisharajput730209@gmail.com",
+  "phone": "7302099271",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7302099271",
+  "name": "Nisha",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "01/01/2004",
+  "gender": "Female"
+}

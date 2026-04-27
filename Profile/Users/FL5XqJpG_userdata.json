@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL5XqJpG",
+  "fullName": "Aditya Soni",
+  "email": "adityasoni1222@gmail.com",
+  "phone": "6391030756",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University of Medical Sciences 4",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "6391030756",
+  "name": "Aditya Soni",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "27/07/2003",
+  "gender": "Male",
+  "institution": "University of Medical Sciences 4"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL0veh8p",
+  "fullName": "Rohan P",
+  "email": "rohanpremadas@gmail.com",
+  "phone": "9778761230",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9778761230",
+  "name": "Rohan P",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "05/09/1998",
+  "gender": "Male"
+}

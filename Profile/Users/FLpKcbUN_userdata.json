@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLpKcbUN",
+  "fullName": "Shruti MISHRA",
+  "email": "shrutisatsangi.2001@gmail.com",
+  "phone": "7310556031",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7310556031",
+  "name": "Shruti MISHRA",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "01/01/2001",
+  "gender": "Female"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLtsZesY",
+  "fullName": "JAFEER AHMAD",
+  "email": "jafeer1296@gmail.com",
+  "phone": "7983979829",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "UNIVERSITY OF MEDICAL SCIENCE 2 024 -",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7983979829",
+  "name": "JAFEER AHMAD",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "05/07/2007",
+  "gender": "Male",
+  "institution": "UNIVERSITY OF MEDICAL SCIENCE 2 024 -"
+}

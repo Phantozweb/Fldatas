@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLeFniQC",
+  "fullName": "Deepasri",
+  "email": "deepasri9270@gmail.com",
+  "phone": "2976190430",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "2976190430",
+  "name": "Deepasri",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "07/07/2006",
+  "gender": "Female",
+  "institution": "institute of"
+}

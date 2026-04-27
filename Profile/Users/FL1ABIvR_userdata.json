@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL1ABIvR",
+  "fullName": "Muzahid Kamal",
+  "email": "muzahidkamalmbd@gmail.com",
+  "phone": "9410838628",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "Center . D.",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9410838628",
+  "name": "Muzahid Kamal",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "03/02/1994",
+  "gender": "Male",
+  "institution": "Center . D."
+}

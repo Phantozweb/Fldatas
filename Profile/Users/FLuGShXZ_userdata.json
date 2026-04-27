@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLuGShXZ",
+  "fullName": "K.Meghana",
+  "email": "kandikondameghana@gmail.com",
+  "phone": "7981927890",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 4th",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7981927890",
+  "name": "K.Meghana",
+  "location": "",
+  "qualification": "Bsc",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "22/08/2003",
+  "gender": "Female",
+  "institution": "University 4th"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLxZtIxI",
+  "fullName": "Sathya Pooja",
+  "email": "poojakannan781@gmail.com",
+  "phone": "9087129512",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9087129512",
+  "name": "Sathya Pooja",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
+  "dob": "29/03/2006",
+  "gender": "Female"
+}

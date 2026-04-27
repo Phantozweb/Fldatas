@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLZwGsks",
+  "fullName": "Bushra Sajjad",
+  "email": "bushrasajjad1404@gmail.com",
+  "phone": "8299588617",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university, lucknow .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8299588617",
+  "name": "Bushra Sajjad",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "14/04/2002",
+  "gender": "Female",
+  "institution": "university, lucknow ."
+}

@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLiiUCPG",
+  "fullName": "Mariyam Khan",
+  "email": "khanmariyam991@gmail.com",
+  "phone": "7379796059",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7379796059",
+  "name": "Mariyam Khan",
+  "location": "",
+  "qualification": "Master",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "24/07/2001",
+  "gender": "Female"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLnza0vi",
+  "fullName": "Binu Sudheer",
+  "email": "sudheerbinu@gmail.com",
+  "phone": "9902215329",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "Academy of Higher Education . Master of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9902215329",
+  "name": "Binu Sudheer",
+  "location": "",
+  "qualification": "Master",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "17/08/1995",
+  "gender": "Male",
+  "institution": "Academy of Higher Education . Master of"
+}

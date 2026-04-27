@@ -1,0 +1,26 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLgxCoKw",
+  "fullName": "Harpreet Kaur Rana",
+  "email": "ranaharpeet259@gmail.com",
+  "phone": "8750624865",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8750624865",
+  "name": "Harpreet Kaur Rana",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "14/08/2005",
+  "gender": "Female"
+}

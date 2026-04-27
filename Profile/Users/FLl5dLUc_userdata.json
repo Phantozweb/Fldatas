@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLl5dLUc",
+  "fullName": "Santiya William",
+  "email": "santiyawilliam@gmail.com",
+  "phone": "7397099789",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7397099789",
+  "name": "Santiya William",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Binocular Vision"
+  ],
+  "dob": "29/07/2002",
+  "gender": "Female"
+}

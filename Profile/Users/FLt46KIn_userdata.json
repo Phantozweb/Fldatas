@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLt46KIn",
+  "fullName": "Jassi Kamble",
+  "email": "jassiekamblee@gmail.com",
+  "phone": "8459741188",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of health and sciences .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8459741188",
+  "name": "Jassi Kamble",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Low Vision",
+    "Sports Vision",
+    "Binocular Vision"
+  ],
+  "dob": "01/03/2002",
+  "gender": "Female",
+  "institution": "university of health and sciences ."
+}

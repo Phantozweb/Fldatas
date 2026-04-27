@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLEH3Fu3",
+  "fullName": "T.Sugappriya",
+  "email": "ssugappriyat@gmail.com",
+  "phone": "6369381193",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "6369381193",
+  "name": "T.Sugappriya",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Binocular Vision"
+  ],
+  "dob": "27/03/2005",
+  "gender": "Female"
+}

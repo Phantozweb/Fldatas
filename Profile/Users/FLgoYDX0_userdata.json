@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLgoYDX0",
+  "fullName": "Avinash Ganeshrao Gonte",
+  "email": "01optometrist@gmail.com",
+  "phone": "7208140251",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "UNIVERSITY",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7208140251",
+  "name": "Avinash Ganeshrao Gonte",
+  "location": "",
+  "qualification": "Bsc",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "11/02/2001",
+  "gender": "Male",
+  "institution": "UNIVERSITY"
+}

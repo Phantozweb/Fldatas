@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLjWAHjp",
+  "fullName": "Ghazia Naim",
+  "email": "ghazianaim414@gmail.com",
+  "phone": "6398468981",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University Moradabad 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "6398468981",
+  "name": "Ghazia Naim",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "18/04/2000",
+  "gender": "Female",
+  "institution": "University Moradabad 3rd"
+}

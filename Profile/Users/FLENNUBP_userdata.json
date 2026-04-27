@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLENNUBP",
+  "fullName": "Mohana Priya",
+  "email": "priyaopto24@gmail.com",
+  "phone": "7448397827",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of health sciences and management 0.3",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7448397827",
+  "name": "Mohana Priya",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Low Vision"
+  ],
+  "dob": "24/03/2005",
+  "gender": "Female",
+  "institution": "institute of health sciences and management 0.3"
+}

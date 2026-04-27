@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLgKt5a4",
+  "fullName": "Kilika B. Chishi",
+  "email": "kilikabchishi@gmail.com",
+  "phone": "9863280269",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9863280269",
+  "name": "Kilika B. Chishi",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "27/11/2003",
+  "gender": "Female",
+  "institution": "university"
+}

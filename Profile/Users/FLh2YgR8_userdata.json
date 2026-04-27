@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLh2YgR8",
+  "fullName": "Ambrish Yadav",
+  "email": "ambrishyadav042@gmail.com",
+  "phone": "6386373457",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "6386373457",
+  "name": "Ambrish Yadav",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "15/03/2002",
+  "gender": "Male",
+  "institution": "university ."
+}

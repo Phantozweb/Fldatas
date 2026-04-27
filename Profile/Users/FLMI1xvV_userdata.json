@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLMI1xvV",
+  "fullName": "Mujahidul Islam",
+  "email": "sh23optogn007@kzu.ac.in",
+  "phone": "8822571641",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 2nd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8822571641",
+  "name": "Mujahidul Islam",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Low Vision",
+    "Pediatric Optometry"
+  ],
+  "dob": "23/07/2003",
+  "gender": "Male",
+  "institution": "University 2nd"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLhQYJaY",
+  "fullName": "Riya Raj",
+  "email": "optoriyaraj@gmail.com",
+  "phone": "8439236437",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8439236437",
+  "name": "Riya Raj",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "dob": "21/02/2005",
+  "gender": "Female"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLhToXwc",
+  "fullName": "Raju Kumhar",
+  "email": "rajukumhar5499@gmail.co0m70738",
+  "phone": "7073834808",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college jaipur 5",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "7073834808",
+  "name": "Raju Kumhar",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "05/04/1999",
+  "gender": "Male",
+  "institution": "college jaipur 5"
+}

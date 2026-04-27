@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLyClI9A",
+  "fullName": "Shivam Palriwal",
+  "email": "sparliwal@gmail.com",
+  "phone": "7544093495",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 3rd B",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7544093495",
+  "name": "Shivam Palriwal",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry"
+  ],
+  "dob": "28/12/2003",
+  "gender": "Male",
+  "institution": "University 3rd B"
+}

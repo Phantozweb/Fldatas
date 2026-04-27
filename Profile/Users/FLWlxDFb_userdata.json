@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLWlxDFb",
+  "fullName": "Faizanullah Siddiqui",
+  "email": "faizansi2085@gmail.com",
+  "phone": "8429707805",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "UNIVERSITY OF MEDICAL SCIENCE2S02 4 onwards",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8429707805",
+  "name": "Faizanullah Siddiqui",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "10/07/2002",
+  "gender": "Male",
+  "institution": "UNIVERSITY OF MEDICAL SCIENCE2S02 4 onwards"
+}

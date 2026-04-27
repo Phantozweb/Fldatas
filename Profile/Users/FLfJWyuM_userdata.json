@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLfJWyuM",
+  "fullName": "Vithul Vijayan",
+  "email": "amorvithul@gmail.com",
+  "phone": "8848895877",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "Academy",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8848895877",
+  "name": "Vithul Vijayan",
+  "location": "",
+  "qualification": "Fellow",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "10/10/1989",
+  "gender": "Male",
+  "institution": "Academy"
+}

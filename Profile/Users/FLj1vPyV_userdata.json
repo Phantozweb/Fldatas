@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLj1vPyV",
+  "fullName": "Aditya Laxmikant Shewale",
+  "email": "adityashewale19@gmail.com",
+  "phone": "7387539038",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college aurangabad .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7387539038",
+  "name": "Aditya Laxmikant Shewale",
+  "location": "",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "05/04/1999",
+  "gender": "Male",
+  "institution": "college aurangabad ."
+}

@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLpb9psB",
+  "fullName": "Binsiya Shamla",
+  "email": "binsiyabasheer339@gmail.com",
+  "phone": "6235268320",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "6235268320",
+  "name": "Binsiya Shamla",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Low Vision"
+  ],
+  "dob": "16/10/2004",
+  "gender": "Female",
+  "institution": "college of"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLoBavwl",
+  "fullName": "A.Keerthana Sri",
+  "email": "keerthanaaruchunana@gmail.com",
+  "phone": "9363331648",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of health sciences and management 2nd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9363331648",
+  "name": "A.Keerthana Sri",
+  "location": "",
+  "qualification": "Bsc optometry",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "09/03/2005",
+  "gender": "Female",
+  "institution": "institute of health sciences and management 2nd"
+}

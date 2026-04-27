@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL7rKBUM",
+  "fullName": "Abhishek Jaiswal",
+  "email": "abhijai1200@gmail.com",
+  "phone": "9118833376",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9118833376",
+  "name": "Abhishek Jaiswal",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision"
+  ],
+  "dob": "08/11/2002",
+  "gender": "Male",
+  "institution": "institute of"
+}

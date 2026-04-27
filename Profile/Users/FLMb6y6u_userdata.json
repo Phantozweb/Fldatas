@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLMb6y6u",
+  "fullName": "Huda Ali",
+  "email": "huda90846105@gmail.com",
+  "phone": "9084610572",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University Last month of intership",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9084610572",
+  "name": "Huda Ali",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "19/11/2002",
+  "gender": "Female",
+  "institution": "University Last month of intership"
+}

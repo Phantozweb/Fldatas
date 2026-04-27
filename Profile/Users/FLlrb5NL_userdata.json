@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLlrb5NL",
+  "fullName": "Anurag Singh",
+  "email": "anuragsinght515@gmail.c9o3m366",
+  "phone": "3710493366",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "3710493366",
+  "name": "Anurag Singh",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "22/06/2005",
+  "gender": "Male",
+  "institution": "institute"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLj9gXV2",
+  "fullName": "Subham Dey",
+  "email": "subhamdeyp1226@gmail.com",
+  "phone": "6000738268",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 4",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "6000738268",
+  "name": "Subham Dey",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry"
+  ],
+  "dob": "30/08/2001",
+  "gender": "Male",
+  "institution": "University 4"
+}

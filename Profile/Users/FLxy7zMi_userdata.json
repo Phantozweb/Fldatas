@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLxy7zMi",
+  "fullName": "J.Joshua Benial",
+  "email": "joshuajoshua74259@gma0il.9c5o6m64",
+  "phone": "9566444378",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "9566444378",
+  "name": "J.Joshua Benial",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "17/12/2005",
+  "gender": "Male",
+  "institution": "institute of"
+}

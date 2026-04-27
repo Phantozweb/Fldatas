@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLENDmLV",
+  "fullName": "Sudheer Pal",
+  "email": "baghelsudhir6@gmail.com",
+  "phone": "9258085603",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical sciences",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.163Z",
+  "timestamp": "2026-04-27T05:58:11.163Z",
+  "whatsapp": "9258085603",
+  "name": "Sudheer Pal",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Sports Vision"
+  ],
+  "dob": "08/12/2006",
+  "gender": "Male",
+  "institution": "university of medical sciences"
+}

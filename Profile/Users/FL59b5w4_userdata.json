@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL59b5w4",
+  "fullName": "Divya Kumari",
+  "email": "dk9661603@gmail.com",
+  "phone": "7542862915",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "7542862915",
+  "name": "Divya Kumari",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
+  "dob": "29/09/2001",
+  "gender": "Female",
+  "institution": "university"
+}

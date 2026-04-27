@@ -1,0 +1,26 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLjunPGw",
+  "fullName": "Hitkarsh Pal",
+  "email": "palhitkarsh@gmail.com",
+  "phone": "9758649680",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9758649680",
+  "name": "Hitkarsh Pal",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "22/12/2001",
+  "gender": "Male"
+}

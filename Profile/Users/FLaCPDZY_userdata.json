@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLaCPDZY",
+  "fullName": "Aman Singh",
+  "email": "amansingh204080@gmail.com",
+  "phone": "7459962965",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "school of nursing and pyramedical colle2gned",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7459962965",
+  "name": "Aman Singh",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "18/05/2006",
+  "gender": "Male",
+  "institution": "school of nursing and pyramedical colle2gned"
+}

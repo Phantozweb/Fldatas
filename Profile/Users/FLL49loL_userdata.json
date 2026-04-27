@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLL49loL",
+  "fullName": "Kevin Koech",
+  "email": "kevynk96@gmail.com",
+  "phone": "728432076",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "Kenya",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "College",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "728432076",
+  "name": "Kevin Koech",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "13/04/1996",
+  "gender": "Male",
+  "institution": "College"
+}

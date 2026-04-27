@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLbXUhXE",
+  "fullName": "Akanksha Rajvanshi",
+  "email": "akanksharajvanshi2273@gmail.com",
+  "phone": "8979880010",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8979880010",
+  "name": "Akanksha Rajvanshi",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "03/09/2002",
+  "gender": "Female"
+}

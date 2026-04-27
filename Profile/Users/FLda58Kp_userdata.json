@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLda58Kp",
+  "fullName": "Abdul Kalam Azad",
+  "email": "alkmad786@gmail.com",
+  "phone": "7061602597",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7061602597",
+  "name": "Abdul Kalam Azad",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "20/09/2004",
+  "gender": "Male",
+  "institution": "University 3rd"
+}

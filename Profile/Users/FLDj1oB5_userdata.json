@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLDj1oB5",
+  "fullName": "Moh Sameer",
+  "email": "muhsameer012@gmail.com",
+  "phone": "9536638730",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9536638730",
+  "name": "Moh Sameer",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "10/08/2004",
+  "gender": "Male"
+}

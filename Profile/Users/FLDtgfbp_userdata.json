@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLDtgfbp",
+  "fullName": "Rajratna Ramesh Patil",
+  "email": "rajratanpatil0@gmail.com",
+  "phone": "9822880993",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college akola",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9822880993",
+  "name": "Rajratna Ramesh Patil",
+  "location": "",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision"
+  ],
+  "dob": "14/04/1987",
+  "gender": "Male",
+  "institution": "college akola"
+}

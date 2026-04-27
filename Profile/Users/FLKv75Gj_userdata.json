@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLKv75Gj",
+  "fullName": "RAKHIBUL HASSAN",
+  "email": "rakhibulhassan032@gmail.com",
+  "phone": "8389992376",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "UNIVERSITY 4",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8389992376",
+  "name": "RAKHIBUL HASSAN",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "11/10/2002",
+  "gender": "Male",
+  "institution": "UNIVERSITY 4"
+}

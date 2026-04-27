@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLXQRZzI",
+  "fullName": "Pooja",
+  "email": "poojakannan2936@gmail.com",
+  "phone": "9344409459",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9344409459",
+  "name": "Pooja",
+  "location": "",
+  "qualification": "B.Sc Optometry",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Vision Therapy"
+  ],
+  "dob": "29/03/2006",
+  "gender": "Female",
+  "institution": "college of"
+}

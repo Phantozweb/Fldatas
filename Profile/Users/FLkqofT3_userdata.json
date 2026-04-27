@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLkqofT3",
+  "fullName": "J.Rithnica",
+  "email": "rithnicajacob@gmail.com",
+  "phone": "4593783007",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of health sciences and management 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "4593783007",
+  "name": "J.Rithnica",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "20/10/2004",
+  "gender": "Female",
+  "institution": "institute of health sciences and management 3rd"
+}

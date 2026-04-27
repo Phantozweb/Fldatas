@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLiCpXnT",
+  "fullName": "Sajida Akhtar",
+  "email": "akhtarsajida2000@gmail.com",
+  "phone": "9958346342",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9958346342",
+  "name": "Sajida Akhtar",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "08/03/2004",
+  "gender": "Female"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLSwxeV2",
+  "fullName": "Mohd Junaid",
+  "email": "mojunaidqurashi@gmail.com",
+  "phone": "8859722149",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university meerut uttar P2rnadd eyseha r",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8859722149",
+  "name": "Mohd Junaid",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "15/05/2004",
+  "gender": "Male",
+  "institution": "university meerut uttar P2rnadd eyseha r"
+}

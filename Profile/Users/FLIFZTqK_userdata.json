@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLIFZTqK",
+  "fullName": "SADHASAKTHI. S",
+  "email": "sadhas0803@gmail.com",
+  "phone": "9443791468",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college of science and",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9345374328",
+  "name": "SADHASAKTHI. S",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "09/03/2004",
+  "gender": "Female",
+  "institution": "college of science and"
+}

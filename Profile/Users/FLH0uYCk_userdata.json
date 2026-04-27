@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLH0uYCk",
+  "fullName": "MOHD Raqib",
+  "email": "rakib844597@gmail.com",
+  "phone": "8445973510",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university moradabad 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8445973510",
+  "name": "MOHD Raqib",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "15/04/2004",
+  "gender": "Male",
+  "institution": "university moradabad 3rd"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL6HIBU7",
+  "fullName": "Riju Ghosh",
+  "email": "rijughosh8666@gmail.com",
+  "phone": "9382493842",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college and h.ospital",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9382493842",
+  "name": "Riju Ghosh",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry"
+  ],
+  "dob": "21/03/2002",
+  "gender": "Male",
+  "institution": "college and h.ospital"
+}

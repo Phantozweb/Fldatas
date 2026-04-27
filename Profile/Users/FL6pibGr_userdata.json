@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL6pibGr",
+  "fullName": "A SRINIVAS",
+  "email": "sreenivas6771@gmail.com",
+  "phone": "9177649499",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9177649499",
+  "name": "A SRINIVAS",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "29/05/1990",
+  "gender": "Male"
+}

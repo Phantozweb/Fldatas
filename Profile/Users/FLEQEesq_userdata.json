@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLEQEesq",
+  "fullName": "Nihal Shakya",
+  "email": "shakyadev0009@gmail.com",
+  "phone": "8171332178",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical science",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8171332178",
+  "name": "Nihal Shakya",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Sports Vision"
+  ],
+  "dob": "03/10/2007",
+  "gender": "Male",
+  "institution": "university of medical science"
+}

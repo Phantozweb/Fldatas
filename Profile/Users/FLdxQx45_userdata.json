@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLdxQx45",
+  "fullName": "Shagufi",
+  "email": "sayedshagufi@gmail.com",
+  "phone": "8630056509",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University moradabad 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8630056509",
+  "name": "Shagufi",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Low Vision",
+    "Binocular Vision"
+  ],
+  "dob": "15/02/2001",
+  "gender": "Female",
+  "institution": "University moradabad 3rd"
+}

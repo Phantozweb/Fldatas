@@ -1,0 +1,26 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLkggItW",
+  "fullName": "Km Rashmi",
+  "email": "princyquite@gmail.com",
+  "phone": "7465072290",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7465072290",
+  "name": "Km Rashmi",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Binocular Vision"
+  ],
+  "dob": "26/10/2003",
+  "gender": "Female"
+}

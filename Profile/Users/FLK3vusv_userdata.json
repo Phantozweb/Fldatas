@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLK3vusv",
+  "fullName": "Mariya",
+  "email": "mariya768khan@gmail.com",
+  "phone": "7838988423",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "center",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7838988423",
+  "name": "Mariya",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "13/10/2001",
+  "gender": "Female",
+  "institution": "center"
+}

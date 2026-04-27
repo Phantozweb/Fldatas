@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL67gJnJ",
+  "fullName": "Rohit Kumar",
+  "email": "rkakkum9@gmail.com",
+  "phone": "7667420493",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute Yes",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7667420493",
+  "name": "Rohit Kumar",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "15/05/1996",
+  "gender": "Male",
+  "institution": "institute Yes"
+}

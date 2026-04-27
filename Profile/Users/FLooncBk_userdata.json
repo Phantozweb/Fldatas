@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLooncBk",
+  "fullName": "Pawan Kant Bhaskar",
+  "email": "pawankant7017@gmail.com",
+  "phone": "9084469084",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of paramedical sciences, saifai, etawah",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9084469084",
+  "name": "Pawan Kant Bhaskar",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry"
+  ],
+  "dob": "14/02/2006",
+  "gender": "Male",
+  "institution": "university of paramedical sciences, saifai, etawah"
+}

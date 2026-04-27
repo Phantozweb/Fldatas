@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLO79vTp",
+  "fullName": "Aysha Razi",
+  "email": "aysha.razi2002@gmail.com",
+  "phone": "9336292288",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 4",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9336292288",
+  "name": "Aysha Razi",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens"
+  ],
+  "dob": "01/06/2004",
+  "gender": "Female",
+  "institution": "University 4"
+}

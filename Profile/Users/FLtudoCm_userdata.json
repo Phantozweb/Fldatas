@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLtudoCm",
+  "fullName": "K.Sriharishma",
+  "email": "sriharishma7@gmail.com",
+  "phone": "9042580805",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college of",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9042580805",
+  "name": "K.Sriharishma",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "17/10/2005",
+  "gender": "Female",
+  "institution": "college of"
+}

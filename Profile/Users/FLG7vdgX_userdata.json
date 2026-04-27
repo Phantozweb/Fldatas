@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLG7vdgX",
+  "fullName": "Sweta Gautam",
+  "email": "swetagautam.sg2005@gmail.com",
+  "phone": "9456620306",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.167Z",
+  "timestamp": "2026-04-27T05:58:11.167Z",
+  "whatsapp": "9456620306",
+  "name": "Sweta Gautam",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "02/10/2005",
+  "gender": "Female"
+}

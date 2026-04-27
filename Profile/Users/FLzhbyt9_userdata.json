@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLzhbyt9",
+  "fullName": "Leo Johnson",
+  "email": "leoj171299@gmail.com",
+  "phone": "6238939765",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "6238939765",
+  "name": "Leo Johnson",
+  "location": "",
+  "qualification": "Bsc",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "17/12/1999",
+  "gender": "Male"
+}

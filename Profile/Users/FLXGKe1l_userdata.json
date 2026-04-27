@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLXGKe1l",
+  "fullName": "Dr. Cathy Stern",
+  "email": "doctorstern@gmail.com",
+  "phone": "1617763775",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "6177637755",
+  "name": "Dr. Cathy Stern",
+  "location": "",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Sports Vision",
+    "Binocular Vision"
+  ],
+  "dob": "01/01/1954",
+  "gender": "Female"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLYV65NH",
+  "fullName": "Vivek Gupta",
+  "email": "guptaarav477@gmail.com",
+  "phone": "9005975787",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical sciences 4",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9005975787",
+  "name": "Vivek Gupta",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "12/01/2005",
+  "gender": "Male",
+  "institution": "university of medical sciences 4"
+}

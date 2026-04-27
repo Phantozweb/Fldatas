@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLMZDFHA",
+  "fullName": "Naina Jawed",
+  "email": "naina.mtmcjsr2022@learner.manipal9.e2d2u97",
+  "phone": "9229752327",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "College 3",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9229752327",
+  "name": "Naina Jawed",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "09/12/2001",
+  "gender": "Female",
+  "institution": "College 3"
+}

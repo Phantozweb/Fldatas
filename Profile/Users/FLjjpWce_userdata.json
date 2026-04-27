@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLjjpWce",
+  "fullName": "A.Mubassara",
+  "email": "mubasabdulsukkur@gmail.com",
+  "phone": "8248466204",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "Institute of Health Sciences and Management 1st",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8248466204",
+  "name": "A.Mubassara",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "24/08/2006",
+  "gender": "Female",
+  "institution": "Institute of Health Sciences and Management 1st"
+}

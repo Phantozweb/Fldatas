@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLf7Zwf2",
+  "fullName": "Abitha S",
+  "email": "abithark123@gmail.com",
+  "phone": "9544670743",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9544670743",
+  "name": "Abitha S",
+  "location": "",
+  "qualification": "M.Optom",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "08/04/1995",
+  "gender": "Female"
+}

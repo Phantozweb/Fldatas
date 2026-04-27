@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLys0kOy",
+  "fullName": "Shekhar Shrivastav",
+  "email": "skt499420@gmail.com",
+  "phone": "8006550753",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical science safai",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8006550753",
+  "name": "Shekhar Shrivastav",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Vision Therapy"
+  ],
+  "dob": "07/06/2000",
+  "gender": "Male",
+  "institution": "university of medical science safai"
+}

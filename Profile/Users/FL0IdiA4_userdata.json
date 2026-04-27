@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL0IdiA4",
+  "fullName": "Devendra Kumawat",
+  "email": "devendra334249@gmail.com",
+  "phone": "9116898042",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9116898042",
+  "name": "Devendra Kumawat",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "10/04/1999",
+  "gender": "Male",
+  "institution": "University ."
+}

@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLDWhl7d",
+  "fullName": "Aniket",
+  "email": "aniket9759etw@gmail.com",
+  "phone": "9759464278",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical sciences 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "9759464278",
+  "name": "Aniket",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "11/05/2004",
+  "gender": "Male",
+  "institution": "university of medical sciences 3rd"
+}

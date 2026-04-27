@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLTumviA",
+  "fullName": "Anu Shakwa",
+  "email": "shakwaann@gmail.com",
+  "phone": "8099310595",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university . B",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8099310595",
+  "name": "Anu Shakwa",
+  "location": "",
+  "qualification": "B Optometry",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "06/10/2004",
+  "gender": "Female",
+  "institution": "university . B"
+}

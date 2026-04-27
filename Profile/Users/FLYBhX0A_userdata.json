@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLYBhX0A",
+  "fullName": "Alishba Raouf",
+  "email": "alishba10357@gmail.com",
+  "phone": "8630728078",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8630728078",
+  "name": "Alishba Raouf",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "12/09/2004",
+  "gender": "Female",
+  "institution": "University"
+}

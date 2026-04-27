@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLddW03m",
+  "fullName": "Afreen Naqvi",
+  "email": "naqviafreen025@gmail.com",
+  "phone": "9024675331",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "college jaipur .",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9024675331",
+  "name": "Afreen Naqvi",
+  "location": "",
+  "qualification": "Diploma",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "01/07/1999",
+  "gender": "Female",
+  "institution": "college jaipur ."
+}

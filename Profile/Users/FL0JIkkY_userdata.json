@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL0JIkkY",
+  "fullName": "Be-An.H.Phom",
+  "email": "kambashukha0@gmail.com",
+  "phone": "8415951596",
+  "linkedin": "",
+  "profession": "Academic",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University Assam jorhat 2nd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "8415951596",
+  "name": "Be-An.H.Phom",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Sports Vision"
+  ],
+  "dob": "07/02/2005",
+  "gender": "Male",
+  "institution": "University Assam jorhat 2nd"
+}

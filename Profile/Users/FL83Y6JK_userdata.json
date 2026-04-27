@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL83Y6JK",
+  "fullName": "Ritu Chaudhary",
+  "email": "ritusorout2601@gmail.com",
+  "phone": "7838381029",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 4th",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7838381029",
+  "name": "Ritu Chaudhary",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision"
+  ],
+  "dob": "27/01/2002",
+  "gender": "Female",
+  "institution": "University 4th"
+}

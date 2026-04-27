@@ -1,0 +1,27 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLHGGscm",
+  "fullName": "Delina Chyrmang",
+  "email": "delinachyrmang@gmail.com",
+  "phone": "7085679753",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7085679753",
+  "name": "Delina Chyrmang",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control"
+  ],
+  "dob": "26/11/2003",
+  "gender": "Female",
+  "institution": "University"
+}

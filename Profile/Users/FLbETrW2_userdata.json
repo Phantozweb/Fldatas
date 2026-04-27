@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLbETrW2",
+  "fullName": "Rebekah R",
+  "email": "rebekahrajkumar007@gmail.com",
+  "phone": "7904103143",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "College and HospitaIln ternship",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "7904103143",
+  "name": "Rebekah R",
+  "location": "",
+  "qualification": "B.Optom",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "29/06/2001",
+  "gender": "Female",
+  "institution": "College and HospitaIln ternship"
+}

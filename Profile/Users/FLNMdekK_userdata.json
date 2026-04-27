@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLNMdekK",
+  "fullName": "Shani Kumar",
+  "email": "shanikumar020702@gmail.com",
+  "phone": "8449426401",
+  "linkedin": "",
+  "profession": "Optometrist",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university of medical science saifai Etawah",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8449426401",
+  "name": "Shani Kumar",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Associate Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "02/07/2002",
+  "gender": "Male",
+  "institution": "university of medical science saifai Etawah"
+}

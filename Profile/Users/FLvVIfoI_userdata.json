@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLvVIfoI",
+  "fullName": "Swasthika Bharani",
+  "email": "swasthikabharani@gmail.com",
+  "phone": "9566589743",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "institute of health sciences and management1",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9566589743",
+  "name": "Swasthika Bharani",
+  "location": "",
+  "qualification": "Bsc",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "24/11/2006",
+  "gender": "Female",
+  "institution": "institute of health sciences and management1"
+}

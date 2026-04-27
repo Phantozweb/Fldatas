@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLL4rNsr",
+  "fullName": "Pranita Pradhan",
+  "email": "ppranita848@gmail.com",
+  "phone": "7797880684",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University 3rd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "7797880684",
+  "name": "Pranita Pradhan",
+  "location": "",
+  "qualification": "Bachelor",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Binocular Vision",
+    "Vision Therapy"
+  ],
+  "dob": "22/12/2004",
+  "gender": "Female",
+  "institution": "University 3rd"
+}

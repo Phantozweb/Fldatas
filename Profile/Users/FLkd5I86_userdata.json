@@ -1,0 +1,29 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLkd5I86",
+  "fullName": "Zeermika Teronpi",
+  "email": "mikateronpi@gmail.com",
+  "phone": "6001148644",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University Jorhat",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "6001148644",
+  "name": "Zeermika Teronpi",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens"
+  ],
+  "dob": "17/10/2005",
+  "gender": "Female",
+  "institution": "University Jorhat"
+}

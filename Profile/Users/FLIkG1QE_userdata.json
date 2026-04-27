@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLIkG1QE",
+  "fullName": "Afna S",
+  "email": "afnashameer2004@gmail.com",
+  "phone": "8089231756",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "COLLEGE OF",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8089231756",
+  "name": "Afna S",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry",
+    "Binocular Vision"
+  ],
+  "dob": "21/03/2004",
+  "gender": "Female",
+  "institution": "COLLEGE OF"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL05INkg",
+  "fullName": "Rabjot Singh Gulati",
+  "email": "gulatirabjotsingh@gmail.com",
+  "phone": "7017704711",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "University MORADABAD UTTA1Rs tPRADESH",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "7017704711",
+  "name": "Rabjot Singh Gulati",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "25/01/2005",
+  "gender": "Male",
+  "institution": "University MORADABAD UTTA1Rs tPRADESH"
+}

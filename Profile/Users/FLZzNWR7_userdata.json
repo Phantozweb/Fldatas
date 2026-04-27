@@ -1,0 +1,32 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLZzNWR7",
+  "fullName": "Nayanmoni Regon",
+  "email": "sh23optogn016@kzu.ac.in",
+  "phone": "8099173923",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university 2nd",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "8099173923",
+  "name": "Nayanmoni Regon",
+  "location": "",
+  "qualification": "Bachelor of Optometry",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "11/09/2005",
+  "gender": "Female",
+  "institution": "university 2nd"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLjmOfM7",
+  "fullName": "Sonu Kumar",
+  "email": "ug42222066@dseu.ac.in",
+  "phone": "8800859022",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "university",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.164Z",
+  "timestamp": "2026-04-27T05:58:11.164Z",
+  "whatsapp": "8800859022",
+  "name": "Sonu Kumar",
+  "location": "",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Vision Therapy"
+  ],
+  "dob": "21/07/2002",
+  "gender": "Male",
+  "institution": "university"
+}

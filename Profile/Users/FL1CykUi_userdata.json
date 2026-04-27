@@ -1,0 +1,28 @@
+{
+  "type": "membership_application",
+  "membershipId": "FL1CykUi",
+  "fullName": "S.Arockia Neha",
+  "email": "nehasr2005@gmail.com",
+  "phone": "9585458437",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "Institute of health sciences and management Internship",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.166Z",
+  "timestamp": "2026-04-27T05:58:11.166Z",
+  "whatsapp": "9585458437",
+  "name": "S.Arockia Neha",
+  "location": "",
+  "qualification": "Degree",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Binocular Vision"
+  ],
+  "dob": "19/02/2025",
+  "gender": "Female",
+  "institution": "Institute of health sciences and management Internship"
+}

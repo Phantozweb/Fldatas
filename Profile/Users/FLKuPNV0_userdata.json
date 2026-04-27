@@ -1,0 +1,30 @@
+{
+  "type": "membership_application",
+  "membershipId": "FLKuPNV0",
+  "fullName": "Akshaya",
+  "email": "aksayajaya20051810@gmail.com",
+  "phone": "9080859297",
+  "linkedin": "",
+  "profession": "Student",
+  "country": "India",
+  "otherCountry": "",
+  "region": "",
+  "cityState": "Institute OF HEALTH SCIENCES AND MANAG2EnMdE yNeTa r",
+  "status": "accepted",
+  "verified": true,
+  "submittedAt": "2026-04-27T05:58:11.165Z",
+  "timestamp": "2026-04-27T05:58:11.165Z",
+  "whatsapp": "9080859297",
+  "name": "Akshaya",
+  "location": "",
+  "qualification": "Bsc",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Contact Lens",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "18/10/2005",
+  "gender": "Female",
+  "institution": "Institute OF HEALTH SCIENCES AND MANAG2EnMdE yNeTa r"
+}
