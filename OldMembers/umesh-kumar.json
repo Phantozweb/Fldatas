@@ -1,20 +1,19 @@
 {
   "name": "Umesh Kumar",
-  "email": "gaya.ukp@gmail.com",
-  "phone": "9693533027",
-  "whatsapp": "969353302796935",
-  "dob": "10/05/1996",
+  "email": "optomverma@gmail.com",
+  "phone": "720648264672064",
+  "whatsapp": "7206482646",
+  "dob": "04/07/1983",
   "gender": "Male",
   "country": "India",
-  "institution": "",
-  "qualification": "",
+  "institution": "university",
+  "qualification": "Degree",
   "profession": "Optometrist (Practitioner)",
   "membership_type": "Professional Member",
-  "membership_id": "FL-OPT-3908",
+  "membership_id": "FL-OPT-8510",
   "areas_of_interest": [
-    "Myopia Control",
-    "Contact Lens"
+    "Pediatric Optometry"
   ],
-  "registered_at": "14/04/2025 09:53:42",
+  "registered_at": "14/04/2025 18:41:53",
   "source": "optobharat_old_members"
 }
