@@ -1,0 +1,19 @@
+{
+  "name": "Sweta Gautam",
+  "email": "swetagautam.sg2005@gmail.com",
+  "phone": "9456620306",
+  "whatsapp": "9456620306",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Pediatric Optometry"
+  ],
+  "dob": "02/10/2005",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
