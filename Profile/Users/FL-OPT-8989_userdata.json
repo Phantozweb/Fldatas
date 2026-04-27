@@ -1,0 +1,19 @@
+{
+  "name": "KADEEJA SHERIN PA",
+  "email": "kadeejasherin98@gmail.com",
+  "phone": "9645378770",
+  "whatsapp": "9715525173",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "Bsc",
+  "institution": "University .",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Vision Therapy"
+  ],
+  "dob": "30/11/1998",
+  "gender": "Female",
+  "verified": true,
+  "status": "accepted"
+}
