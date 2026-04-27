@@ -1,0 +1,21 @@
+{
+  "name": "Sudipta Banerjee",
+  "email": "banerjee.sudipta09@gmai0l.c8o6m975",
+  "phone": "8697522930",
+  "whatsapp": "8697522930",
+  "role": "Optometrist",
+  "country": "IN",
+  "qualification": "",
+  "institution": "",
+  "profession": "Optometrist (Practitioner)",
+  "membership_type": "Professional Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Low Vision",
+    "Vision Therapy"
+  ],
+  "dob": "02/11/1989",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
