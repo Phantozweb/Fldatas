@@ -1,0 +1,21 @@
+{
+  "name": "Ritik kumar",
+  "email": "ritikkumarsarsu@gmail.com",
+  "phone": "8970783710",
+  "whatsapp": "8970783710",
+  "role": "Student",
+  "country": "IN",
+  "qualification": "Degree",
+  "institution": "University",
+  "profession": "Student",
+  "membership_type": "Student Member",
+  "areas_of_interest": [
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Vision Therapy"
+  ],
+  "dob": "12/04/2003",
+  "gender": "Male",
+  "verified": true,
+  "status": "accepted"
+}
