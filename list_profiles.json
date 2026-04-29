@@ -4537,5 +4537,26 @@
     "name": "Rahul Sharma",
     "title": "student",
     "location": "Kanpur, Uttar Pradesh, IN"
+  },
+  {
+    "entryId": "290426031336067",
+    "type": "membership_application",
+    "membershipId": "FLSVE6P5",
+    "fullName": "Sarada Bhattacharya ",
+    "email": "saradabhattacharya7@gmail.com",
+    "phone": "9749381374",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "West bengal ",
+    "cityState": "Durgapur ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-29T03:13:33.081Z",
+    "timestamp": "2026-04-29T03:13:36.067Z",
+    "name": "Sarada Bhattacharya ",
+    "title": "student",
+    "location": "Durgapur , West bengal , IN"
   }
 ]
