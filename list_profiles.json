@@ -4495,5 +4495,26 @@
     "name": "Himanshu kannaujiya",
     "title": "optometrist",
     "location": "Ghazipur, Uttar Pradesh, IN"
+  },
+  {
+    "entryId": "290426003118668",
+    "type": "membership_application",
+    "membershipId": "FLKQAHHP",
+    "fullName": "Pradeep",
+    "email": "pradeepbv1999@gmail.com",
+    "phone": "8971087539",
+    "linkedin": "",
+    "profession": "optometrist",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Karnataka ",
+    "cityState": "Hubli",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-04-29T00:31:17.541Z",
+    "timestamp": "2026-04-29T00:31:18.668Z",
+    "name": "Pradeep",
+    "title": "optometrist",
+    "location": "Hubli, Karnataka , IN"
   }
 ]
