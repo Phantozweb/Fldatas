@@ -4810,5 +4810,26 @@
     "name": "ABIRAMI KAMALBABU ",
     "title": "student",
     "location": "Chennai , Tamil Nadu , IN"
+  },
+  {
+    "entryId": "010526091108252",
+    "type": "membership_application",
+    "membershipId": "FL2ZXS6C",
+    "fullName": "Sachin Kumar Swain ",
+    "email": "skswain597@gmail.com",
+    "phone": "6370982004",
+    "linkedin": "",
+    "profession": "optometrist",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Odisha",
+    "cityState": "Bhubaneswar ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-05-01T09:09:07.554Z",
+    "timestamp": "2026-05-01T09:11:08.252Z",
+    "name": "Sachin Kumar Swain ",
+    "title": "optometrist",
+    "location": "Bhubaneswar , Odisha, IN"
   }
 ]
