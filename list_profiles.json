@@ -5062,5 +5062,26 @@
     "name": "Mo Juned",
     "title": "",
     "location": "Mumbai, Maharashtra, IN"
+  },
+  {
+    "entryId": "060526125932884",
+    "type": "membership_application",
+    "membershipId": "FLUY3GUL",
+    "fullName": "Amarbir singh",
+    "email": "kalsisaab857@gmail.com",
+    "phone": "8699134850",
+    "linkedin": "",
+    "profession": "optometrist",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "punjab india ",
+    "cityState": "GURDASPUR ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-05-06T12:59:32.079Z",
+    "timestamp": "2026-05-06T12:59:32.884Z",
+    "name": "Amarbir singh",
+    "title": "optometrist",
+    "location": "GURDASPUR , punjab india , IN"
   }
 ]
