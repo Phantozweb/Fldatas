@@ -1,1 +1,10 @@
-{"meetingLink":"","meetingTime":"2026-05-06T13:30:00Z","meetingEndTime":"2026-05-06T15:30:00Z","platform":"Google Meet","status":"link_pending"}
+{
+  "meetingLink": "https://meet.google.com/gim-ngct-gwv",
+  "meetingTime": "2026-05-06T13:30:00Z",
+  "meetingEndTime": "2026-05-06T15:30:00Z",
+  "platform": "Google Meet",
+  "status": "scheduled",
+  "fallbackLink": "https://meet.google.com/gim-ngct-gwv",
+  "lastUpdated": "2026-05-06T12:22:13.849Z",
+  "updatedBy": "admin"
+}
