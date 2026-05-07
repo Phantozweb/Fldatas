@@ -1,0 +1,13 @@
+{
+  "entryId": "070526150828917",
+  "type": "certificate-claim",
+  "webinar": "Beyond Ortho-K: Practical & Affordable Myopia Management with Contact Lenses",
+  "slug": "beyond-orthok-practical-and-affordable-myopia-management-with-contact-lens",
+  "name": "Test User",
+  "email": "test@example.com",
+  "membershipId": "FL2ZXS6C",
+  "flVerified": true,
+  "matchedBy": "membershipId",
+  "source": "Registered & Attended",
+  "timestamp": "2026-05-07T15:08:28.917Z"
+}
