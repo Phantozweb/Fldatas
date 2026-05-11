@@ -1,0 +1,12 @@
+{
+  "namePosition": {
+    "x": 50.5,
+    "y": 39.5
+  },
+  "fontSize": 25,
+  "fontFamily": "Georgia, serif",
+  "fontColor": "#1e293b",
+  "textAlign": "center",
+  "templateImage": "/certificate-template.png",
+  "nameText": "Dr. John Smith"
+}
