@@ -7,6 +7,6 @@
   "fontFamily": "Georgia, serif",
   "fontColor": "#1e293b",
   "textAlign": "center",
-  "templateImage": "/certificate-template.png",
+  "templateImage": "https://raw.githubusercontent.com/Phantozweb/Fldatas/main/Certificate/certificate-template.png",
   "nameText": "Dr. John Smith"
 }
