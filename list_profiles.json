@@ -5226,5 +5226,26 @@
     "name": "Rajat Chauhan ",
     "title": "student",
     "location": "Solan, Himachal Pradesh , IN"
+  },
+  {
+    "entryId": "120526182117935",
+    "type": "membership_application",
+    "membershipId": "FLMVNU1Z",
+    "fullName": "Deepak Kumar",
+    "email": "deepakkumar7783090390@gmail.com",
+    "phone": "7783090390",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Jharkhand ",
+    "cityState": "Jamshedpur ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-05-12T18:21:16.532Z",
+    "timestamp": "2026-05-12T18:21:17.935Z",
+    "name": "Deepak Kumar",
+    "title": "student",
+    "location": "Jamshedpur , Jharkhand , IN"
   }
 ]
