@@ -5247,5 +5247,26 @@
     "name": "Deepak Kumar",
     "title": "student",
     "location": "Jamshedpur , Jharkhand , IN"
+  },
+  {
+    "entryId": "130526054822001",
+    "type": "membership_application",
+    "membershipId": "FLQRTKSD",
+    "fullName": "Vidhi arora ",
+    "email": "aroramanu273@gmail.com",
+    "phone": "9084887953",
+    "linkedin": "",
+    "profession": "optometrist",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Uttar Pradesh ",
+    "cityState": "Meerut ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-05-13T05:48:19.933Z",
+    "timestamp": "2026-05-13T05:48:22.001Z",
+    "name": "Vidhi arora ",
+    "title": "optometrist",
+    "location": "Meerut , Uttar Pradesh , IN"
   }
 ]
