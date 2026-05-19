@@ -263,7 +263,7 @@
     "title": "Aspiring Optometrist | Pediatric & Binocular Vision Enthusiast",
     "experience": [
       {
-        "title": "First Prize \u2013 Science Exhibition",
+        "title": "First Prize – Science Exhibition",
         "company": "VK College of Science and Optometry",
         "duration": "",
         "description": "Won first prize in a poster competition, contributing to vision awareness through creativity and clinical insight."
@@ -304,7 +304,7 @@
       "Peer Learning",
       "Research Methodology"
     ],
-    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies.\nI love simplifying complex academic topics through concept maps, structured notes, and visual learning aids \u2014 making learning accessible and engaging.\n\nBeyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.\nI'm currently exploring research methodology and the psychological aspects of human behavior, enriching both my clinical and personal development.",
+    "bio": "I'm an Optometry student passionate about pediatric vision care, binocular vision assessment, and congenital ocular motor anomalies.\nI love simplifying complex academic topics through concept maps, structured notes, and visual learning aids — making learning accessible and engaging.\n\nBeyond academics, I create interactive quizzes and MCQs to support peer learning and foster curiosity in vision science.\nI'm currently exploring research methodology and the psychological aspects of human behavior, enriching both my clinical and personal development.",
     "links": {
       "linkedin": "https://linkedin.com/in/braseetha-a-260b60323",
       "email": "brasee66@gmail.com"
@@ -1470,7 +1470,7 @@
       "Entrepreneurship",
       "Student Collaboration"
     ],
-    "bio": "I'm Janarthan Veeramani, a third-year B.Sc. Optometry student on a mission to make eye care smarter and more accessible. As the founder of FocusLinks and Focus-IN, I am building an ecosystem of AI-powered tools to empower optometry students and practitioners worldwide. My journey began at LIHSM, Coimbatore, where I discovered that my true strength lies in creative thinking, not just academics. That mindset inspired me to build the tools I once wished I had as a student\u2014tools that support smarter learning, clinical reasoning, and collaboration for the global eye care community.",
+    "bio": "I'm Janarthan Veeramani, a third-year B.Sc. Optometry student on a mission to make eye care smarter and more accessible. As the founder of FocusLinks and Focus-IN, I am building an ecosystem of AI-powered tools to empower optometry students and practitioners worldwide. My journey began at LIHSM, Coimbatore, where I discovered that my true strength lies in creative thinking, not just academics. That mindset inspired me to build the tools I once wished I had as a student—tools that support smarter learning, clinical reasoning, and collaboration for the global eye care community.",
     "links": {
       "linkedin": "https://www.linkedin.com/in/janarthan-v",
       "email": "janarthanv@outlook.com"
@@ -1577,7 +1577,7 @@
     "location": "Noida/Delhi NCR, India",
     "id": "manish-bhagat",
     "type": "professional",
-    "title": "Head \u2014 Visual Eyez India | Consultant Optometrist",
+    "title": "Head — Visual Eyez India | Consultant Optometrist",
     "experience": [
       {
         "title": "Head",
@@ -2017,5 +2017,26 @@
     "languages": [],
     "profileToken": "",
     "_isMigrated": false
+  },
+  {
+    "entryId": "190526171935421",
+    "type": "membership_application",
+    "membershipId": "FLQ1K12Z",
+    "fullName": "Aditya",
+    "email": "Adikhanna07077@gmail.com",
+    "phone": "9357777770",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Punjab",
+    "cityState": "Ludhiana",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-05-19T17:19:34.294Z",
+    "timestamp": "2026-05-19T17:19:35.421Z",
+    "name": "Aditya",
+    "title": "student",
+    "location": "Ludhiana, Punjab, IN"
   }
 ]
