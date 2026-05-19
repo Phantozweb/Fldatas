@@ -1,0 +1,36 @@
+{
+  "entryId": "190526171548163",
+  "type": "onboarding",
+  "fullName": "Aditya",
+  "email": "adikhanna07077@gmail.com",
+  "status": "student",
+  "purposes": [
+    "career",
+    "visibility",
+    "clinical",
+    "education",
+    "research",
+    "management",
+    "mentorship",
+    "community"
+  ],
+  "specialties": [
+    "Contact Lenses",
+    "Myopia Control",
+    "Binocular Vision",
+    "Low Vision",
+    "Pediatric Optometry",
+    "Sports Vision",
+    "Ocular Disease",
+    "Geriatric Optometry",
+    "Neuro-Optometry",
+    "Dry Eye Management",
+    "Vision Therapy",
+    "Dispensing Optics"
+  ],
+  "country": "India",
+  "cityState": "Ludhiana",
+  "organization": "",
+  "membershipId": "",
+  "timestamp": "2026-05-19T17:15:48.163Z"
+}
