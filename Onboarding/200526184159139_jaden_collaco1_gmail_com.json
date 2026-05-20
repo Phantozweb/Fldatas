@@ -1,0 +1,28 @@
+{
+  "entryId": "200526184159139",
+  "type": "onboarding",
+  "fullName": "Jaden Collaco",
+  "email": "jaden.collaco1@gmail.com",
+  "status": "student",
+  "purposes": [
+    "visibility",
+    "clinical",
+    "education",
+    "research",
+    "mentorship",
+    "community",
+    "career",
+    "management"
+  ],
+  "specialties": [
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Ocular Disease",
+    "Neuro-Optometry"
+  ],
+  "country": "India",
+  "cityState": "Mumbai, Maharashtra",
+  "organization": "Lotus College of Optometry",
+  "membershipId": "",
+  "timestamp": "2026-05-20T18:41:59.139Z"
+}
