@@ -1,0 +1,30 @@
+{
+  "entryId": "260526081528903",
+  "type": "onboarding",
+  "fullName": "Dr Yatharth Singh",
+  "email": "healthyvision0@gmail.com",
+  "status": "practicing",
+  "purposes": [
+    "management",
+    "education",
+    "clinical",
+    "visibility",
+    "career"
+  ],
+  "specialties": [
+    "Low Vision",
+    "Geriatric Optometry",
+    "Ocular Disease",
+    "Dry Eye Management",
+    "Neuro-Optometry",
+    "Vision Therapy",
+    "Dispensing Optics",
+    "Myopia Control",
+    "Pediatric Optometry"
+  ],
+  "country": "India",
+  "cityState": "Uttar pradesh",
+  "organization": "Healthy Vision",
+  "membershipId": "",
+  "timestamp": "2026-05-26T08:15:28.903Z"
+}
