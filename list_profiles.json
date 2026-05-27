@@ -2059,5 +2059,26 @@
     "name": "Akanchha Verma",
     "title": "optometrist",
     "location": "Noida , Uttar Pradesh , IN"
+  },
+  {
+    "entryId": "270526112855815",
+    "type": "membership_application",
+    "membershipId": "FLTCNY79",
+    "fullName": "Syed shahin",
+    "email": "shahinshaik360@gmail.com",
+    "phone": "9121737607",
+    "linkedin": "",
+    "profession": "student",
+    "country": "IN",
+    "otherCountry": "",
+    "region": "Andra pradesh ",
+    "cityState": "Kurnool ",
+    "status": "accepted",
+    "verified": true,
+    "submittedAt": "2026-05-27T11:28:54.211Z",
+    "timestamp": "2026-05-27T11:28:55.815Z",
+    "name": "Syed shahin",
+    "title": "student",
+    "location": "Kurnool , Andra pradesh , IN"
   }
 ]
