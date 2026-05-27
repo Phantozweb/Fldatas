@@ -1,0 +1,36 @@
+{
+  "entryId": "270526110650664",
+  "type": "onboarding",
+  "fullName": "Syed shahin",
+  "email": "shahinshaik360@gmail.com",
+  "status": "student",
+  "purposes": [
+    "visibility",
+    "clinical",
+    "career",
+    "education",
+    "management",
+    "research",
+    "mentorship",
+    "community"
+  ],
+  "specialties": [
+    "Myopia Control",
+    "Contact Lenses",
+    "Low Vision",
+    "Binocular Vision",
+    "Sports Vision",
+    "Pediatric Optometry",
+    "Geriatric Optometry",
+    "Ocular Disease",
+    "Dry Eye Management",
+    "Neuro-Optometry",
+    "Vision Therapy",
+    "Dispensing Optics"
+  ],
+  "country": "India",
+  "cityState": "Kurnool",
+  "organization": "",
+  "membershipId": "",
+  "timestamp": "2026-05-27T11:06:50.664Z"
+}
