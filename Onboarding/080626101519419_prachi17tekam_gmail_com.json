@@ -1,0 +1,34 @@
+{
+  "entryId": "080626101519419",
+  "type": "onboarding",
+  "fullName": "Prachi Tekam",
+  "email": "prachi17tekam@gmail.com",
+  "status": "student",
+  "purposes": [
+    "education",
+    "career",
+    "visibility",
+    "clinical",
+    "research",
+    "management",
+    "mentorship",
+    "community"
+  ],
+  "specialties": [
+    "Contact Lenses",
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Neuro-Optometry",
+    "Dispensing Optics",
+    "Vision Therapy",
+    "Dry Eye Management",
+    "Ocular Disease",
+    "Sports Vision",
+    "Low Vision"
+  ],
+  "country": "India",
+  "cityState": "Nagpur Maharashtra ",
+  "organization": "",
+  "membershipId": "",
+  "timestamp": "2026-06-08T10:15:19.420Z"
+}
