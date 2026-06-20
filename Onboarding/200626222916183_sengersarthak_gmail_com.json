@@ -1,0 +1,34 @@
+{
+  "entryId": "200626222916183",
+  "type": "onboarding",
+  "fullName": "Dr.Sarthak Senger",
+  "email": "sengersarthak@gmail.com",
+  "status": "clinic-owner",
+  "purposes": [
+    "mentorship",
+    "research",
+    "management",
+    "education",
+    "clinical",
+    "visibility",
+    "career",
+    "community"
+  ],
+  "specialties": [
+    "Contact Lenses",
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Binocular Vision",
+    "Low Vision",
+    "Geriatric Optometry",
+    "Sports Vision",
+    "Ocular Disease",
+    "Dry Eye Management",
+    "Neuro-Optometry"
+  ],
+  "country": "India",
+  "cityState": "Gautam Buddha Nagar ,utter pardesh",
+  "organization": "Rajesh kumari superspeciality eye hospital",
+  "membershipId": "",
+  "timestamp": "2026-06-20T22:29:16.183Z"
+}
