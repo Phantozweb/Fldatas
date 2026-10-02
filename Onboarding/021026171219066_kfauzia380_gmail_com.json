@@ -1,0 +1,31 @@
+{
+  "entryId": "021026171219066",
+  "type": "onboarding",
+  "fullName": "Fauzia Khatoon",
+  "email": "kfauzia380@gmail.com",
+  "status": "student",
+  "purposes": [
+    "career",
+    "visibility",
+    "education",
+    "community",
+    "clinical",
+    "research"
+  ],
+  "specialties": [
+    "Contact Lenses",
+    "Myopia Control",
+    "Pediatric Optometry",
+    "Binocular Vision",
+    "Low Vision",
+    "Ocular Disease",
+    "Dry Eye Management",
+    "Vision Therapy",
+    "Geriatric Optometry"
+  ],
+  "country": "India",
+  "cityState": "Delhi",
+  "organization": "",
+  "membershipId": "",
+  "timestamp": "2026-10-02T17:12:19.066Z"
+}
