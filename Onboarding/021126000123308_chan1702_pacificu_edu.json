@@ -1,0 +1,17 @@
+{
+  "entryId": "021126000123308",
+  "type": "onboarding",
+  "fullName": "Emily Chan",
+  "email": "chan1702@pacificu.edu",
+  "status": "student",
+  "purposes": [
+    "clinical",
+    "education"
+  ],
+  "specialties": [],
+  "country": "",
+  "cityState": "",
+  "organization": "",
+  "membershipId": "",
+  "timestamp": "2026-11-02T00:01:23.308Z"
+}
